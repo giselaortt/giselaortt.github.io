@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: Books
 use-site-title: true
 ---
 
