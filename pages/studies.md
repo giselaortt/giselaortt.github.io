@@ -8,7 +8,3 @@ title: Studies
 
 
 ### Topics that I plan to study/review soon
-
-
-- Deep Learning
-- SQL Injection
