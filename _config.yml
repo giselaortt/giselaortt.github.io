@@ -25,7 +25,7 @@ description: "Portfolio"
 navbar-links:
   Home: ""
   Blog: "pages/blog"
-  Cv: "pages/cv"
+  CV: "pages/cv"
   Studies: "pages/studies"
   Books: "pages/books"
 
