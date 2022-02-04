@@ -45,7 +45,7 @@ author:
   name: "Gisela Ortt"
   email: "ms.giselaortt@gmail.com"
   github: giselaortt
-  linkedin: gisela-ortt
+  linkedin: gisela-ortt-2bb40a196
 
 # Select which links to show in the footer
 footer-links-active:
@@ -70,7 +70,7 @@ share-links-active:
   twitter: false
   facebook: false
   google: false
-  linkedin: false
+  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
