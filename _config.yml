@@ -24,7 +24,7 @@ description: "Portfolio"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Stories: "pages/stories"
+  Blog: "pages/blog"
   Cv: "pages/cv"
   Studies: "pages/studies"
   Books: "pages/books"
