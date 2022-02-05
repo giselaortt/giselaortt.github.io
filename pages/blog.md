@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-subtitle: this is a subtitle
+subtitle: Stories about my travels and larning path
 use-site-title: true
 bigimg: path
 ---
