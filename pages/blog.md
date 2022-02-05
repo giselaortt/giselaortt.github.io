@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Blog
+subtitle: this is a subtitle
+use-site-title: true
+bigimg: path
 ---
 
 [//]: # - [<u>Data Science Concepts</u>](ds_concepts): A compilation of Q&A related to Data Science topics.

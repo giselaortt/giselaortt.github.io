@@ -2,6 +2,9 @@
 layout: page
 title: Books
 use-site-title: true
+subtitle: this is a subtitle
+use-site-title: true
+bigimg: path
 ---
 
 
