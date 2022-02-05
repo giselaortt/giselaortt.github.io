@@ -47,6 +47,7 @@ author:
   github: giselaortt
   linkedin: gisela-ortt-2bb40a196
   instagram: giselaortt
+  couchsurfing: giselaortt
 
 # Select which links to show in the footer
 footer-links-active:
@@ -65,6 +66,7 @@ footer-links-active:
   youtube: false
   spotify: false
   telephone: false
+  couchsurfing: true
 
 # Select which share links to show in posts
 share-links-active:
