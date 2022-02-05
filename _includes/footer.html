@@ -14,6 +14,21 @@
             </a>
           </li>
           {% endif %}
+          <!-- {% if site.author.couchsurfing and site.footer-links-active.couchsurfing %} -->
+          
+          <li>
+            <a href="https://www.couchsurfing.com/people/{{ site.author.couchsurfing }}" title="Couchsurfing">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <!-- <i class="fa fa-circle fa-stack-2x"></i> -->
+                <!-- <i class="fa fa-facebook fa-stack-1x fa-inverse"></i> -->
+                <img src = "../couchsurfing.png"  alt=""  height="37.328"  width="37.328" >
+              </span>
+              <!-- <!–– <span class="sr-only">Facebook</span>   procurar o tamanho ––> -->
+              <!-- <img src="../couchsurfing.png" alt="couchsurfing"> -->
+              <span class="sr-only">CouchSurfing</span>
+            </a>
+          </li>
+          <!-- {% endif %} -->
           {% if site.author.github and site.footer-links-active.github %}
           <li>
             <a href="https://github.com/{{ site.author.github }}" title="GitHub">
