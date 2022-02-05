@@ -48,6 +48,7 @@ author:
   linkedin: gisela-ortt-2bb40a196
   instagram: giselaortt
   couchsurfing: giselaortt
+  telegram: giselaortt
 
 # Select which links to show in the footer
 footer-links-active:
@@ -60,6 +61,7 @@ footer-links-active:
   reddit: false
   linkedin: true
   xing: false
+  telegram: true
   stackoverflow: false
   snapchat: false
   instagram: true
