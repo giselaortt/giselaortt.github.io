@@ -10,7 +10,10 @@ bigimg: path
 [//]: #  - [<u>Reading</u>](reading): My reading list
 
 
-### Non-fiction Books:
+I started reading non-fiction in 2017 and have not stopped since. Here Are some recomendations I have and eventually a review.
+.
+
+### My top books:
 - Fast and slow: two ways of thinking, Daniel Kahneman
 - Mindset, Carol Dwerk
 - Sapiens, Harari Yuval
@@ -18,6 +21,13 @@ bigimg: path
 - Behave, robert sapolsky
 - The master and his emissary
 - Non-violent comunication, Marshall Rosenberg
+
+
+### Other useful books:
+- Four thausand weeks
+- Neurofitness
+- Focusing, Eugene T.
+- Indistractable
 
 
 ### Curently reading:

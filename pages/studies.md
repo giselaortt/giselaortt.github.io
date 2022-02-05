@@ -8,12 +8,15 @@ subtitle: this is a subtitle
 
 - Jan/2022 - Keras, Tensorflow, python review
 
-> took Kaggle courses on ML liberies and took a python review
+> took Kaggle courses on ML liberies and did a python review
+
+- 2021/2nd Clean Code
+
+- 2021/2nd Unit Tests with python
 
 - 2021/1st - In-depth German grammar and vocabulary
 
 >  B2 rached, needs more practice
-
 
 ### Topics that I am studying now:
 
@@ -23,7 +26,7 @@ subtitle: this is a subtitle
 
 - HTML/CSS
 
-> Basic Front-end
+> Basics of Front-end
 
 ### Topics that I plan to study/review soon:
 
