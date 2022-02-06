@@ -136,7 +136,7 @@ defaults:
 feed_show_tags: false
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: false
+feed_show_excerpt: true
 
 # Exclude these files from production site
 exclude:
