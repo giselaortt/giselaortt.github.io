@@ -48,15 +48,16 @@
           </li>
           {% endif %}
 
-          {{ site.author.name }}
-          &nbsp;&bull;&nbsp;
-          {{ site.time | date: '%Y' }}
+          <p>
+            {{ site.author.name }}
+            &nbsp;&bull;&nbsp;
+            {{ site.time | date: '%Y' }}
 
-          {% if site.url-pretty %}
-          &nbsp;&bull;&nbsp;
-          <a href="{{ site.url }}">{{ site.url-pretty }}</a>
-          {% endif %}
-	  
+            {% if site.url-pretty %}
+            &nbsp;&bull;&nbsp;
+            <a href="{{ site.url }}">{{ site.url-pretty }}</a>
+            {% endif %}
+          </p>
         </ul>
       </div>
     </div>
