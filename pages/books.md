@@ -33,5 +33,4 @@ I started reading non-fiction in 2017 and have not stopped ever since. Here Are 
 ### Curently reading:
 - Unwinding Anxiety
 - Noise
-- Non-violent comunication
 - 4-thausand weeks
