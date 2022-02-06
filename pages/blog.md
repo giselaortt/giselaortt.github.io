@@ -3,7 +3,7 @@ layout: page
 title: Blog
 subtitle: Stories about my travels and larning path
 use-site-title: true
-bigimg: path
+bigimg: ../../images/capas/salinas.jpg
 ---
 
 [//]: # - [<u>Data Science Concepts</u>](ds_concepts): A compilation of Q&A related to Data Science topics.
