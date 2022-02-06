@@ -20,16 +20,17 @@ I started reading non-fiction in 2017 and have not stopped ever since. Here Are 
 
 
 ### Other useful books:
+- <b>Non-violent comunication</b>, <i>Marshall Rosenberg</i>
 - <b>Fast and slow: two ways of thinking</b>, <i>Daniel Kahneman</i>
 - <b>Four Thousand Weeks</b>,<i>Oliver Burkeman</i>
 - <b>Neurofitness</b>, <i>Rahul Jandial</i>
-- <b>Deep work</b>, <i>Cal Newport</i>
 - <b>Focusing</b>, <i>Eugene T. Gendlin</i>
-- <b>Indistractable</b>, <i>Nir Eyal</i>
 - <b>Weapons of Math Destruction</b>, <i>Cathy O'Neil</i>
 - <b>The Surprising Purpose of Anger: Beyond Anger Management</b>, <i>Marshall Rosenberg</i>
 - <b>Say Good Night to Insomnia</b>, <i>Gregg D. Jacobs</i>
-- <b>Non-violent comunication</b>, <i>Marshall Rosenberg</i>
+- <b>The Drunkard's Walk: How Randomness Rules Our Lives</b>, <i>Leonard Mlodinow</i>
+- <b>Deep work</b>, <i>Cal Newport</i>
+- <b>Indistractable</b>, <i>Nir Eyal</i>
 
 
 ### Curently reading:
