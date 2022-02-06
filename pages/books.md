@@ -13,7 +13,6 @@ bigimg: path
 I started reading non-fiction in 2017 and have not stopped ever since. Here Are some recomendations I have and eventually a review.
 
 ### My top books:
-- Fast and slow: two ways of thinking, Daniel Kahneman
 - Mindset, Carol Dwerk
 - Sapiens, Harari Yuval
 - Homo Deus: A Brief History of Tomorrow
@@ -23,10 +22,12 @@ I started reading non-fiction in 2017 and have not stopped ever since. Here Are 
 
 
 ### Other useful books:
+- Fast and slow: two ways of thinking, Daniel Kahneman
 - Four thausand weeks
 - Neurofitness
 - Focusing, Eugene T.
 - Indistractable
+- Weapons of math destruction
 
 
 ### Curently reading:
