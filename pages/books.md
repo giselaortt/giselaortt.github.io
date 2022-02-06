@@ -28,6 +28,7 @@ I started reading non-fiction in 2017 and have not stopped ever since. Here Are 
 - Focusing, Eugene T.
 - Indistractable
 - Weapons of math destruction
+- The Surprising Purpose of Anger: Beyond Anger Management, Marshall Rosenberg
 
 
 ### Curently reading:
