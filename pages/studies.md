@@ -2,6 +2,7 @@
 layout: page
 title: Studies
 subtitle: My learning path 
+bigimg: image
 ---
 
 ### Topics that I have studied recently:

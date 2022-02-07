@@ -4,7 +4,6 @@ title: Books
 use-site-title: true
 subtitle: this is my personal bookshelf
 bigimg: ../images/capas/gavea.jpg
-cover-img: "../images/capas/gavea.jpg"
 ---
 [//]: # 
 [//]: #  - [<u>Recomendations</u>](recomendations): My favorite books
