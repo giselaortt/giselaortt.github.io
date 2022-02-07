@@ -18,15 +18,15 @@
 {% endif %}
 
 <!-- data-img-src-{{ imgnum }}="{{ imginfo[0] | prepend: site.url | replace: '//', '/' }}" -->
-          <!-- data-img-desc-{{ imgnum }}="{{ imginfo[1] }}" -->
-          <!-- data-img-src-{{ imgnum }}="{{ imginfo | prepend: site.url | replace: '//', '/' }}" -->
+<!-- data-img-desc-{{ imgnum }}="{{ imginfo[1] }}" -->
+<!-- data-img-src-{{ imgnum }}="{{ imginfo | prepend: site.url | replace: '//', '/' }}" -->
 
 <header class="header-section {% if page.bigimg %}has-img{% endif %}">
 {% if page.bigimg %}
 <!-- {% assign imgurl = "https://giselaortt.github.io/images/capas/salinas.jpg" %} -->
 <!-- {% assign data-img-src = "{{bigimg | prepend: site.url | replace: '//', '/' }}" %} -->
 <!-- {% assign data-img-src = "{{imginfo | prepend: site.url | replace: '//', '/' }}" %} -->
-<!-- <div class="big-img intro-header" style="background-image: url({{page.bigimg.first}})"> -->
+<div class="big-img intro-header" style="background-image: url({{page.bigimg.first}})">
   <div class="big-img intro-header">
   <div class="container">
     <div class="row">
