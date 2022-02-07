@@ -2,6 +2,7 @@
 layout: page
 title: Studies
 subtitle: My learning path 
+bigimg: "https://giselaortt.github.io/images/capas/chile-lhamas.jpg"
 ---
 
 ### Topics that I have studied recently:
