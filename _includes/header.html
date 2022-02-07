@@ -8,11 +8,9 @@
 	  {% assign imgnum = forloop.index %}
       {% for imginfo in bigimg %}
         {% if imginfo[0] %}
-          data-img-src-{{ imgnum }}="{{imginfo[0]}}"
-          
+          data-img-src-{{ imgnum }}={{imginfo[0]}}
         {% else %}
-          data-img-src-{{ imgnum }}="{{imginfo}}"
-          
+          data-img-src-{{ imgnum }}={{imginfo}}
         {% endif %}
       {% endfor %}
     {% endfor %}
