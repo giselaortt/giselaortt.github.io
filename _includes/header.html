@@ -23,9 +23,9 @@
 <header class="header-section {% if page.bigimg %}has-img{% endif %}">
 {% if page.bigimg %}
 <!-- {% assign imgurl = "https://giselaortt.github.io/images/capas/salinas.jpg" %} -->
-<!-- {% assign data-img-src = "{{bigimg | prepend: site.url | replace: '//', '/' }}" %} -->
+{% assign data-img-src = "{{bigimg | prepend: site.url | replace: '//', '/' }}" %}
 <!-- {% assign data-img-src = "{{imginfo | prepend: site.url | replace: '//', '/' }}" %} -->
-<div class="big-img intro-header" style="background-image: url({{data-img-src-0}})">
+<div class="big-img intro-header" style="background-image: url({{data-img-src}})">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
