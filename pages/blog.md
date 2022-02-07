@@ -3,7 +3,7 @@ layout: page
 title: Blog
 subtitle: Here is where I share useful stories with my peers
 use-site-title: true
-bigimg: ../images/capas/gavea.jpg
+bigimg: "https://giselaortt.github.io/images/capas/mirante-janela-.jpg"
 ---
  
 

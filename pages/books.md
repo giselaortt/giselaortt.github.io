@@ -3,7 +3,7 @@ layout: page
 title: Books
 use-site-title: true
 subtitle: this is my personal bookshelf
-bigimg: ../images/capas/gavea.jpg
+bigimg: "https://giselaortt.github.io/images/capas/pico-do-papagaio.jpg"
 ---
 [//]: # 
 [//]: #  - [<u>Recomendations</u>](recomendations): My favorite books
