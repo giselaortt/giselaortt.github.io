@@ -3,8 +3,9 @@ layout: page
 title: Blog
 subtitle: Here is where I share useful stories with my peers
 use-site-title: true
+cover-img: ../../images/capas/salinas.jpg
 ---
-[//]: # bigimg: ../../images/capas/salinas.jpg
+ 
 
 [//]: # - [<u>Test</u>](blog-post-2): this is how i can link a subpage in a folder of the same name
 
