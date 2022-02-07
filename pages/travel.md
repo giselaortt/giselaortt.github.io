@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Travel
-subtitle: adventures
+subtitle: 
 use-site-title: true
 bigimg: path
 ---
 
-
-
+This page is in construction! wait for my first post soon!

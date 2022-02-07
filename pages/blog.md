@@ -6,12 +6,12 @@ use-site-title: true
 ---
 [//]: # bigimg: ../../images/capas/salinas.jpg
 
-[//]: # - [<u>Test</u>](blog-post-2): this is a test on how to work my pages tree
+[//]: # - [<u>Test</u>](blog-post-2): this is how i can link a subpage in a folder of the same name
 
 [//]: # and this is how to link a post on the page
-[//]: # - [<u>Testando</u>](../_posts/2020-02-26-flake-it-till-you-make-it.md): this is a test on how to work my page tree
+[//]: # - [<u>Testando</u>](../_posts/2020-02-26-flake-it-till-you-make-it.md):test
 
 [//]: # this is how i can link another page in this page, even if its not in my page tree
-[//]: # - [<u>test 2</u>](books.md): this is a test on how to work my page tree
+[//]: # - [<u>test 2</u>](books.md): test
 
 This page is in construction! wait for my first post soon!
