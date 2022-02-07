@@ -2,7 +2,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "https://giselaortt.github.io"
-baseurl: ""
+baseurl: "https://giselaortt.github.io"
 
 # Name of website
 title: "Gisela Ortt"
