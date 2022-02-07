@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Travel
-subtitle: 
+subtitle: Nature heals the soul
 use-site-title: true
 bigimg: "https://giselaortt.github.io/images/capas/vale-da-lua.jpg"
 ---
