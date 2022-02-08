@@ -1,7 +1,7 @@
 <!-- TODO this file has become a mess, refactor it -->
 
 {% if page.bigimg or page.title %}
-
+<!-- 
 {% if page.bigimg %}
   <div id="header-big-imgs" data-num-img={% if page.bigimg.first %}{{ page.bigimg.size }}{% else %}1{% endif %}
     {% for bigimg in page.bigimg %}
@@ -16,17 +16,20 @@
     {% endfor %}
   ></div>
 {% endif %}
-
+ -->
 <!-- data-img-src-{{ imgnum }}="{{ imginfo[0] | prepend: site.url | replace: '//', '/' }}" -->
 <!-- data-img-desc-{{ imgnum }}="{{ imginfo[1] }}" -->
 <!-- data-img-src-{{ imgnum }}="{{ imginfo | prepend: site.url | replace: '//', '/' }}" -->
 
+<!-- data-img-src-0 = page.bigimg -->
+data-img-src-0 = page.bigimg
+
 <header class="header-section {% if page.bigimg %}has-img{% endif %}">
 {% if page.bigimg %}
 <!-- {% assign imgurl = "https://giselaortt.github.io/images/capas/salinas.jpg" %} -->
-<!-- {% assign data-img-src = "{{bigimg | prepend: site.url | replace: '//', '/' }}" %} -->
-<!-- {% assign data-img-src = "{{imginfo | prepend: site.url | replace: '//', '/' }}" %} -->
-<div class="big-img intro-header" style="background-image: url({{page.bigimg}})">
+<!-- {% assign data-img-src-0 = "{{bigimg | prepend: site.url | replace: '//', '/' }}" %} -->
+<!-- {% assign data-img-src-1 = "{{imginfo | prepend: site.url | replace: '//', '/' }}" %} -->
+<!-- <div class="big-img intro-header" style="background-image: url({{page.bigimg}})"> -->
   <div class="big-img intro-header">
   <div class="container">
     <div class="row">
