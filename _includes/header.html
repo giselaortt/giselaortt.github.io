@@ -10,37 +10,23 @@
 	  {% assign imgnum = forloop.index %}
       {% for imginfo in bigimg %}
         {% if imginfo[0] %}
-          data-img-src-{{ imgnum }}={{imginfo[0]}}
+          data-img-src-{{ imgnum }}="{{ imginfo[0] | prepend: site.url | replace: '//', '/' }}"
+          data-img-desc-{{ imgnum }}="{{ imginfo[1] }}"
         {% else %}
-          data-img-src-{{ imgnum }}={{imginfo}}
+          data-img-src-{{ imgnum }}="{{ imginfo | prepend: site.url | replace: '//', '/' }}"
         {% endif %}
       {% endfor %}
     {% endfor %}
   ></div>
 {% endif %}
  -->
-
- <div id="header-big-imgs" data-num-img=1
-         data-img-src-0=bigimg
-         data-img-src-1=bigimgs
- ></div>
-
-<!-- data-img-src-{{ imgnum }}="{{ imginfo[0] | prepend: site.url | replace: '//', '/' }}" -->
-<!-- data-img-desc-{{ imgnum }}="{{ imginfo[1] }}" -->
-<!-- data-img-src-{{ imgnum }}="{{ imginfo | prepend: site.url | replace: '//', '/' }}" -->
-
-<!-- data-img-src-0 = page.bigimg -->
-<!-- data-img-src-0 = page.bigimg -->
-<!-- data-img-src-1 = page.bigimg -->
-<!-- data-num-im = 1 -->
-
-<!-- <header class="header-section {% if page.bigimg %}has-img{% endif %}"> -->
+ 
+<header class="header-section {% if page.bigimg %}has-img{% endif %}">
 {% if page.bigimg %}
 <!-- {% assign imgurl = "https://giselaortt.github.io/images/capas/salinas.jpg" %} -->
 <!-- {% assign data-img-src-0 = "{{bigimg | prepend: site.url | replace: '//', '/' }}" %} -->
 <!-- {% assign data-img-src-1 = "{{imginfo | prepend: site.url | replace: '//', '/' }}" %} -->
-<!-- <div class="big-img intro-header" style="background-image: url({{page.bigimg}})"> -->
-  <div class="big-img intro-header">
+<div class="big-img intro-header" style="background-image: url({{page.bigimg}})">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
