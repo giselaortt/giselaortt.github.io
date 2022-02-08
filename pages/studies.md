@@ -23,9 +23,11 @@ bigimg: "https://giselaortt.github.io/images/capas/chile-lhamas.jpg"
 - Django
 
 - SQL 
+> started with [this course](https://www.kaggle.com/learn/intro-to-sql) from kaggle
 
 - HTML/CSS
-> Basics of Front-end
+> taking [this](https://www.w3schools.com/html/html_css.asp) and [this](https://www.w3schools.com/html/html_basic.asp) course from w3 school.
+
 
 ### Topics that I plan to study/revi ew soon:
 
