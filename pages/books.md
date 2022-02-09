@@ -55,3 +55,4 @@ I started reading non-fiction in 2017 and have not stopped ever since. Here Are 
 - <b>Unwinding Anxiety</b>, <i>Judson Brewer</i>
 - <b>Noise</b>, <i>Daniel Kahneman</i>
 - <b>Smarter Tomorrow</b>
+- <b>Blindspots between us</b>
