@@ -18,7 +18,9 @@ Here are my top tipps on what worked for me, I hope you can find them useful.
 ##  Anki looping
 <br>
 The single best tip is the Anki desktop app. If you can implement only one of these, go with this one. It does take a while to fully learn all the functionalities of this app and take the most of it, but I guarantee you it pays off.<br>
-A common mistake is to believe that Anki is an app to learn. Anki is the most popular implementation of SSR(spaced repetition systems) which is the most optimal way to memorize things in general. Basically, anki is an application that guarantees you won't forget what you learned from other sources. It means it should be used alongside other methods, and you should not rely only on this. It is still important to consume content in your target language, read, speak, watch films, and whatever you can get. Your brain needs to make connections between these words in several contexts, instead of just remembering its translation. Whenever you learn a new word or grammar rule, add to anki you will remember it for longer, maybe forever.<br>
+A common mistake is to believe that Anki is an app to learn. It's not!<br>
+Anki is the most popular implementation of SSR(spaced repetition systems) which is the most optimal way to memorize things in general. Basically, anki is an application that guarantees you wont forget what you learned from other sources.Whenever you learn a new word or grammar rule, add to anki you will remember it for longer, maybe forever.<br>
+It means it should be used alongside other methods, and you should not rely only on this. In other words, it is still important to consume content in your target language: read, speak, watch films, and whatever you can get. Your brain needs to make connections between these words in several contexts, instead of just remembering it's translation.<br>
 
 An efficient way to quickly build your initial vocabulary with ANKI loop through these steps:
 
