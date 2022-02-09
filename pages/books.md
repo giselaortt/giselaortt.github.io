@@ -14,8 +14,8 @@ I started reading non-fiction in 2017 and have not stopped ever since. Here Are 
 
 ### My top books:
 - <b>Mindset</b>, <i>Carol Dwerk</i>
-- <b>Sapiens</b>, <i>Harari Yuval</i>
-- <b>Homo Deus: A Brief History of Tomorrow</b>, <i>Harari Yuval</i>
+- <b>Sapiens</b>, <i>Yuval Noah Harari</i>
+- <b>Homo Deus: A Brief History of Tomorrow</b>, <i>Yuval Noah Harari</i>
 - <b>Behave</b>, <i>Robert Sapolsky</i>
 - <b>The Master and His Emissary: The Divided Brain and the Making of the Western World</b>, <i>Iain McGilchrist</i>
 - <b>21 Lessons for the 21st Century</b>, <i>Yuval Noah Harari</i>
@@ -31,8 +31,11 @@ I started reading non-fiction in 2017 and have not stopped ever since. Here Are 
 - <b>Drawing on the Right Side of the Brain</b>, <i>Betty Edwards</i>
 - <b>Fast and slow: two ways of thinking</b>, <i>Daniel Kahneman</i>
 > Read carefully, a few of those researches did not replicate.
-> 
+
 - <b>Four Thousand Weeks</b>,<i>Oliver Burkeman</i>
+> MII: Make a list of the things you want to do, risk 80%. Those are the things you should try not to do.
+> They are interesting enough to grab your attention but will distract you from the most important ones.
+
 - <b>Neurofitness</b>, <i>Rahul Jandial</i>
 - <b>Focusing</b>, <i>Eugene T. Gendlin</i>
 - <b>Weapons of Math Destruction</b>, <i>Cathy O'Neil</i>
