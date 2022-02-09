@@ -33,14 +33,14 @@ An efficient way to quickly build your initial vocabulary with ANKI loop through
 
 Try to anki between 5 to 20 words a day, depending on your availability. <b>This loop is specially suited for beginners</b>.  After you pass initial vocabulary you can rely on the content you consume and stop using lists of words. 
 <br><br>
-##### Anki tips:
+#### Anki tips:
 
 - One way to easily grasp sentences from videos and netflix is this chrome extension:  [Language Reactor](https://www.languagereactor.com/) S you don't need to rewrite the subtitles of your movies and can instead copy and paste from netflix and youtube.
 - One way to easily grasp words while reading is Readlang [website](https://chrome.google.com/webstore/detail/readlang-web-reader/odpdkefpnfejbfnmdilmfhephfffmfoh) that also has a [chrome extension](https://readlang.com/pt/dashboard)
 - I coded a file parser that turns your Readlang file into a better ANKI formatting(requires that you use python). It is available in this github [repo](https://github.com/giselaortt/Readlang_integration_to_anki).
 have more tipss? reach out for me! I like to always improve on my method : )
 
-##### Credits to this method:
+#### Credits to this method:
 
 Like many things in life I did not compile this method from scratch, instead I learned to implement someone else's and made modifications to better suit it for me. People I need to give credit to are Mairo Vergara and Tim ferriss
 <br><br>
