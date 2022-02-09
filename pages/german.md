@@ -8,14 +8,14 @@ bigimg: "https://giselaortt.github.io/images/capas/mirante-janela-chapada-veadei
 ## Intro
 <br>
 I always wanted to learn more languages and be a polyglot. I have tried to learn spanish as a child and soon dropped my classes, I never passed the basic level. As an early teenager I took an expensive German class and again, ended up dropping it in less than 2 months, I could not even introduce myself in German.
-I did learn English, but it took me 10 years of classes and one exchange semester in canada. Even after that I struggled a lot with grammar and spelling! 
-Another episode just to illustrate: After my 4'th year of English classes, my teacher had asked me to watch an episode of Friends, and I simply could not grasp a single dialogue. <br>
+I did learn English, but it took me 10 years of classes and one exchange semester in canada. Even after that I struggled a lot with grammar and spelling. 
+Another episode that stayed with me: After my 4'th year of English classes, my teacher had asked me to watch an episode of Friends, and I simply could not grasp a single dialogue! <br>
 In Jan 2021 I was inspired by a French person, who learned Portuguese in only 2 months, and who taught me about spaced repetition in language learning, so I got the motivation to give it one more try.<br>
-Last year I passed the b2 certification in Goethe institute in 8 months of self-study, and feel confident to tackle my next 2 languages when the time comes. After one year of German I am reading Sapiens, a quite advanced book in vocabulary. I read my first book of english (kite runners) after 5 years of classes and by far had many more problems to grasp what was going on there.<br>
+Last year I passed the b2 certification in Goethe institute in 8 months of self-study, and I didnt just study the whole time, I had a job and took courses. I did study every single day, but on most days I would study just 1 hour by the morning and be done. I am happy with my results: After one year of German I am reading Sapiens, a quite advanced book in vocabulary. I read my first book of english (kite runners) after 5 years of classes and by far had many more problems to grasp what was going on there.<br>
 So what Happened? What turned young me into the current me?<br>
-Here are my top tipps, if you struggle with the same problems I used to, and want to achieve the same results, or better ones!
+Here are my top tipps on what worked for me, I hope you can find them useful.
 <br><br>
-## Anki looping
+##  Anki looping
 <br>
 The single best tip is the Anki desktop app. If you can implement only one of these, go with this one. It does take a while to fully learn all the functionalities of this app and take the most of it, but I guarantee you it pays off.<br>
 A common mistake is to believe that Anki is an app to learn. Anki is the most popular implementation of SSR(spaced repetition systems) which is the most optimal way to memorize things in general. Basically, anki is an application that guarantees you won't forget what you learned from other sources. It means it should be used alongside other methods, and you should not rely only on this. It is still important to consume content in your target language, read, speak, watch films, and whatever you can get. Your brain needs to make connections between these words in several contexts, instead of just remembering its translation. Whenever you learn a new word or grammar rule, add to anki you will remember it for longer, maybe forever.<br>
@@ -31,7 +31,7 @@ An efficient way to quickly build your initial vocabulary with ANKI loop through
 4. <b>Practice your Anki every day!</b><br>
 <br>
 
-Try to anki between 5 to 20 words a day, depending on your availability. This loop is specially suited for beginners.  After you pass initial vocabulary you can rely on the content you consume and stop using lists of words. 
+Try to anki between 5 to 20 words a day, depending on your availability. <b>This loop is specially suited for beginners</b>.  After you pass initial vocabulary you can rely on the content you consume and stop using lists of words. 
 <br><br>
 ##### Anki tips:
 
@@ -40,13 +40,12 @@ Try to anki between 5 to 20 words a day, depending on your availability. This lo
 - I coded a file parser that turns your Readlang file into a better ANKI formatting(requires that you use python). It is available in this github [repo](https://github.com/giselaortt/Readlang_integration_to_anki).
 have more tipss? reach out for me! I like to always improve on my method : )
 
-##### credits to this method:
+##### Credits to this method:
 
 Like many things in life I did not compile this method from scratch, instead I learned to implement someone else's and made modifications to better suit it for me. People I need to give credit to are Mairo Vergara and Tim ferriss
 <br><br>
 
 ## Couchsurfing
-
 <br>
 Couchsurfing is a paid Travel application. It is mainly used to request a free host when traveling and meeting locals. <br>
 A less common use of couchsurfing is to use it as a language practicing tool. It is way more efficient than tanden apps (in my opinion) because you can get to meet people in person more easily, at least when you live in a big or touristic city.<br>
@@ -59,7 +58,6 @@ It is normal to be shy if you haven't mastered the language yet, but the sooner 
 <br><br>
 
 ## Learn genders and plurals from the start
-
 <br>
 One severe mistake I made when learning German is to procrastinate the genders and plurals until I was almost fluent, and most of the grammar. I thought I would learn them naturally over time, but in this specific language the words can change gender according to case. So for example, the feminine article die  becomes the masculin article der on dative case and genitive case.<br>
 As a consequence I came to learn several words as masculine, when in reality they are feminine! Now I made a gender and plurals Deck to reeducate myself and am slowly getting better, but it did cost me a lot of time.<br>
@@ -68,7 +66,6 @@ So whenever adding a word to your vocabulary add the gender and plural. If you a
 <br><br>
 ## Keeping the reading habit with Kindle
 <br>
-
 One important habit in order to become fluent in any language is reading. It is important to read something you are actually interested on, otherwise you can hardly keep motivated. <br>
 For me what worked is filling my kindle with german books. I can take it with me anywhere and have little bites of german practice on the go, on moments I would usually have nothing to do. Kindle allows users to read 10% of each book for free, which is often enough if you jump from one book to another. If you do intend to buy the books, there is a way to change your address on amazon website, and pretend you live in your target country. By doing this you get to buy the books much cheaper. You can also convert downloaded epubs and pdf's, or buy old books, they tend to be cheaper.<br>
 The only flaw I see on the method is, there is no easy way to add the new words to ANKI, if you read on the web you can easily copy and paste sentences. Nothing is perfect I guess.<br>
