@@ -1,4 +1,5 @@
 ___
+layout: page
 subtitle:
 title:
 ___
