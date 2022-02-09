@@ -3,6 +3,7 @@ layout: page
 subtitle: Leraning languages with SSRS
 title: B2 in 8 months
 bigimg: "https://giselaortt.github.io/images/capas/mirante-janela-chapada-veadeiros.jpg"
+share-img: "https://giselaortt.github.io/images/german_flag.png"
 ---
 
 ## Intro
