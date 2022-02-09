@@ -2,7 +2,8 @@
 
 # TO DO S:
 
-- Fix navbar on mobile,
+- Fix navbar on mobile
+- fix layout that doesnt bring sub pages
 - Make the cover fotos change from time to time -> debug the function to show cover photo!
 - Refactor messy code
 - Change layout for travel page to show bigger fotos
