@@ -18,5 +18,5 @@ bigimg: "https://giselaortt.github.io/images/capas/mirante-janela-chapada-veadei
 check out my first post!
 [german](german.md): test
 
-[test_post](blog-post.md: test
+[test_post](blog-post.md): test
 
