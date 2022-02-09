@@ -16,7 +16,5 @@ bigimg: "https://giselaortt.github.io/images/capas/mirante-janela-chapada-veadei
 [//]: # - [<u>test 2</u>](books.md): test
 
 check out my first post!
-[german](german.md): test
-
-[test_post](blog-post.md): test
+[How I learned German in 8 months!](german.md): tipps on how to learn a language quicker with Spaced Repetition Systems!
 
