@@ -1,9 +1,9 @@
-___
+---
 layout: page
 subtitle: german
 title: german
 bigimg: "https://giselaortt.github.io/images/capas/mirante-janela-chapada-veadeiros.jpg"
-___
+---
 
 German in 8 months or my language learning method with SSR
 
