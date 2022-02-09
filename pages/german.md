@@ -19,10 +19,10 @@ Last year I passed the b2 certification in Goethe institute in 8 months of self-
 So what Happened? What turned young me into the current me?<br>
 Here are my top tipps, if you struggle with the same problems I used to, and want to achieve the same results, or better ones!<br>
 
-
+<br><br>
 ## Anki looping
 
-
+<br><br>
 The single best tip is the Anki desktop app. If you can implement only one of these, go with this one. It does take a while to fully learn all the functionalities of this app and take the most of it, but I guarantee you it pays off.<br>
 A common mistake is to believe that Anki is an app to learn. Anki is the most popular implementation of SSR(spaced repetition systems) which is the most optimal way to memorize things in general. Basically, anki is an application that guarantees you won't forget what you learned from other sources. It means it should be used alongside other methods, and you should not rely only on this. It is still important to consume content in your target language, read, speak, watch films, and whatever you can get. Your brain needs to make connections between these words in several contexts, instead of just remembering its translation. Whenever you learn a new word or grammar rule, add to anki you will remember it for longer, maybe forever.<br>
 
