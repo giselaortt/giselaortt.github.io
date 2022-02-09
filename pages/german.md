@@ -1,16 +1,12 @@
 ---
 layout: page
-subtitle: german
+subtitle: German in 8 months or my language learning method with SSR
 title: german
 bigimg: "https://giselaortt.github.io/images/capas/mirante-janela-chapada-veadeiros.jpg"
 ---
 
-German in 8 months or my language learning method with SSR
-
-
 ## Intro
-
-
+<br><br>
 I always wanted to learn more languages and be a polyglot. I have tried to learn spanish as a child and soon dropped my classes, I never passed the basic level. As an early teenager I took an expensive German class and again, ended up dropping it in less than 2 months, I could not even introduce myself in German.
 I did learn English, but it took me 10 years of classes and one exchange semester in canada. Even after that I struggled a lot with grammar and spelling! 
 Another episode just to illustrate: After my 4'th year of English classes, my teacher had asked me to watch an episode of Friends, and I simply could not grasp a single dialogue. <br>
@@ -18,10 +14,8 @@ In Jan 2021 I was inspired by a French person, who learned Portuguese in only 2 
 Last year I passed the b2 certification in Goethe institute in 8 months of self-study, and feel confident to tackle my next 2 languages when the time comes. After one year of German I am reading Sapiens, a quite advanced book in vocabulary. I read my first book of english (kite runners) after 5 years of classes and by far had many more problems to grasp what was going on there.<br>
 So what Happened? What turned young me into the current me?<br>
 Here are my top tipps, if you struggle with the same problems I used to, and want to achieve the same results, or better ones!<br>
-
 <br><br>
 ## Anki looping
-
 <br><br>
 The single best tip is the Anki desktop app. If you can implement only one of these, go with this one. It does take a while to fully learn all the functionalities of this app and take the most of it, but I guarantee you it pays off.<br>
 A common mistake is to believe that Anki is an app to learn. Anki is the most popular implementation of SSR(spaced repetition systems) which is the most optimal way to memorize things in general. Basically, anki is an application that guarantees you won't forget what you learned from other sources. It means it should be used alongside other methods, and you should not rely only on this. It is still important to consume content in your target language, read, speak, watch films, and whatever you can get. Your brain needs to make connections between these words in several contexts, instead of just remembering its translation. Whenever you learn a new word or grammar rule, add to anki you will remember it for longer, maybe forever.<br>
@@ -40,11 +34,13 @@ An efficient way to quickly build your initial vocabulary with ANKI loop through
 Try to anki between 5 to 20 words a day, depending on your availability. This loop is specially suited for beginners.  After you pass initial vocabulary you can rely on the content you consume and stop using lists of words. 
 <br><br>
 ### Anki tips:
+
 - One way to easily grasp sentences from videos and netflix is this chrome extension:  [Language Reactor](https://www.languagereactor.com/) S you don't need to rewrite the subtitles of your movies and can instead copy and paste from netflix and youtube.
 - One way to easily grasp words while reading is this [website](https://chrome.google.com/webstore/detail/readlang-web-reader/odpdkefpnfejbfnmdilmfhephfffmfoh) that also has a [chrome extension](https://readlang.com/pt/dashboard)
 - I coded [this](https://github.com/giselaortt/Readlang_integration_to_anki) file parser that turns your Readlang file into a better ANKI formatting(requires that you use python).
 <br><br>
 ### credits to this method:
+
 Like many things in life I did not compile this method from scratch, instead I learned to implement someone else's and made modifications to better suit it for me. People I need to give credit to are:
 Mairo Vergara and Tim ferriss
 <br><br>
