@@ -37,9 +37,10 @@ An efficient way to quickly build your initial vocabulary with ANKI loop through
 Try to anki between 5 to 20 words a day, depending on your availability. <b>This loop is specially suited for beginners</b>.  After you pass initial vocabulary you can rely on the content you consume and stop using lists of words. 
 <br><br>
 #### Anki tips:
+The easier and more automatic you make it to grasp new sentences the more likely you are to actually stick with the habit. How many habits you know are useful but you dont implement on your daily routine? I have also many moments when I dont feel like adding a word and end up forgeting it, but ANKI is only as useful as you make it to be. So here is a few ways to make it easier:
 
-- One way to easily grasp sentences from videos and netflix is this chrome extension:  [Language Reactor](https://www.languagereactor.com/) S you don't need to rewrite the subtitles of your movies and can instead copy and paste from netflix and youtube.
-- One way to easily grasp words while reading is Readlang [website](https://chrome.google.com/webstore/detail/readlang-web-reader/odpdkefpnfejbfnmdilmfhephfffmfoh) that also has a [chrome extension](https://readlang.com/pt/dashboard)
+- Easily grasp sentences from videos and netflix is this chrome extension:  [Language Reactor](https://www.languagereactor.com/) S you don't need to rewrite the subtitles of your movies and can instead copy and paste from netflix and youtube.
+- Automatically grasp words while reading with Readlang [website](https://chrome.google.com/webstore/detail/readlang-web-reader/odpdkefpnfejbfnmdilmfhephfffmfoh) that also has a [chrome extension](https://readlang.com/pt/dashboard)
 - I coded a file parser that turns your Readlang file into a better ANKI formatting(requires that you use python). It is available in this github [repo](https://github.com/giselaortt/Readlang_integration_to_anki).
 have more tipss? reach out for me! I like to always improve on my method : )
 
