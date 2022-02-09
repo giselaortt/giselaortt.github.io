@@ -15,4 +15,5 @@ bigimg: "https://giselaortt.github.io/images/capas/mirante-janela-chapada-veadei
 [//]: # this is how i can link another page in this page, even if its not in my page tree
 [//]: # - [<u>test 2</u>](books.md): test
 
-This page is in construction! wait for my first post soon!
+check out my first post!
+[german](german.md): test
