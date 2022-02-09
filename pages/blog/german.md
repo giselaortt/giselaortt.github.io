@@ -1,7 +1,7 @@
 ___
 layout: page
 subtitle: german
-title:
+title: german
 ___
 
 German in 8 months or my language learning method with SSR
