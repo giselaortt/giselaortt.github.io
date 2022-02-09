@@ -1,6 +1,17 @@
 
 
+# TO DO S:
+
+- Fix pagesbar on mobile,
+- Make the cover fotos change from time to time -> debug the function to show cover photo!
+- Refactor messy code
+- Change layout for travel page to show bigger fotos
+- Decide what is useless and delete it
+- Try to change header and head to use Beautiful Jekil recent implementation without compilation problems
+- Learn in local development: tired of waiting for github deploy!
+
 ### YAML front matter parameters
+
 
 Parameter   | Description
 ----------- | -----------
