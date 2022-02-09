@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: Tipps to learn languages with SSRS
+subtitle: Tipps to learn languages with SRS
 title: How I got German B2 in 8 months
 bigimg: "https://giselaortt.github.io/images/capas/mirante-janela-chapada-veadeiros.jpg"
 share-img: "https://giselaortt.github.io/images/german_flag.png"
