@@ -28,7 +28,10 @@ I started reading non-fiction in 2017 and have not stopped ever since. Here Are 
 - <b>Say Good Night to Insomnia</b>, <i>Gregg D. Jacobs</i>
 >book that fixed a lifetime of insomnia problems
 
+- <b>Drawing on the Right Side of the Brain</b>, <i>Betty Edwards</i>
 - <b>Fast and slow: two ways of thinking</b>, <i>Daniel Kahneman</i>
+> Read carefully, a few of those researches did not replicate.
+> 
 - <b>Four Thousand Weeks</b>,<i>Oliver Burkeman</i>
 - <b>Neurofitness</b>, <i>Rahul Jandial</i>
 - <b>Focusing</b>, <i>Eugene T. Gendlin</i>
