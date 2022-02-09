@@ -9,6 +9,8 @@
 - Decide what is useless and delete it
 - Try to change header and head to use Beautiful Jekil recent implementation without compilation problems
 - Learn in local development: tired of waiting for github deploy!
+- Add about me page
+- write blog description
 
 ### YAML front matter parameters
 
