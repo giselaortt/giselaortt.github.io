@@ -2,7 +2,7 @@
 
 # TO DO S:
 
-- Fix pagesbar on mobile,
+- Fix navbar on mobile,
 - Make the cover fotos change from time to time -> debug the function to show cover photo!
 - Refactor messy code
 - Change layout for travel page to show bigger fotos
