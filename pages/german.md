@@ -39,7 +39,7 @@ An efficient way to quickly build your initial vocabulary with ANKI loop through
 
 Try to anki between 5 to 20 words a day, depending on your availability. This loop is specially suited for beginners.  After you pass initial vocabulary you can rely on the content you consume and stop using lists of words. 
 <br><br>
-#### Anki tips:
+### Anki tips:
 - One way to easily grasp sentences from videos and netflix is this chrome extension:  [Language Reactor](https://www.languagereactor.com/) S you don't need to rewrite the subtitles of your movies and can instead copy and paste from netflix and youtube.
 - One way to easily grasp words while reading is this [website](https://chrome.google.com/webstore/detail/readlang-web-reader/odpdkefpnfejbfnmdilmfhephfffmfoh) that also has a [chrome extension](https://readlang.com/pt/dashboard)
 - I coded [this](https://github.com/giselaortt/Readlang_integration_to_anki) file parser that turns your Readlang file into a better ANKI formatting(requires that you use python).
@@ -60,18 +60,18 @@ In my experience some people are very open to this app as long as you write an a
 In your presentation message you should always include something that shows you have read the person's profile. People like to think you have interest in them as people, So do not send the same message to everyone, customize it according to each potential speaking partner. <br>
 It is also important to present yourself as an interesting person they would like to know. One way to do it is to offer to give something in return for their time. For example, "I can show you the best restaurants in this city", or "I can teach you another language that I know". Another way is to comment on an interest you two have in common, if they like soccer and you are into soccer there you go, your ticket to an interesting conversation.<br>
 It is normal to be shy if you haven't mastered the language yet, but the sooner you can overcome initial shyness the better. One way to avoid awful silences is to prepare a list of interesting questions you often ask when meeting new people, translate them to the target language and add them to your Anki. Prepare also your own answers to those questions and add them too, same for commonly asked questions people might ask you. If your speaking partner answers something you do not fully understand it is okay, your goal here is to keep the conversation flowing, keep it simply.<br>
-
+<br><br>
 
 ## Learn genders and plurals from the start
 
-
+<br><br>
 One severe mistake I made when learning German is to procrastinate the genders and plurals until I was almost fluent, and most of the grammar. I thought I would learn them naturally over time, but in this specific language the words can change gender according to case. So for example, the feminine article die  becomes the masculin article der on dative case and genitive case.<br>
 As a consequence I came to learn several words as masculine, when in reality they are feminine! Now I made a gender and plurals Deck to reeducate myself and am slowly getting better, but it did cost me a lot of time.<br>
 So whenever adding a word to your vocabulary add the gender and plural. If you are adding a new verb, add to the same card information about its conjugation, is it a regular or irregular verb? Or in the case of German, is it a treenbar or untrennbar verb?<br>
 
-
+<br><br>
 ## Keeping the reading habit with Kindle
-
+<br><br>
 
 One important habit in order to become fluent in any language is reading. It is important to read something you are actually interested on, otherwise you can hardly keep motivated. <br>
 For me what worked is filling my kindle with german books. I can take it with me anywhere and have little bites of german practice on the go, on moments I would usually have nothing to do. Kindle allows users to read 10% of each book for free, which is often enough if you jump from one book to another. If you do intend to buy the books, there is a way to change your address on amazon website, and pretend you live in your target country. By doing this you get to buy the books much cheaper. You can also convert downloaded epubs and pdf's, or buy old books, they tend to be cheaper.<br>
