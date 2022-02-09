@@ -34,7 +34,7 @@ An efficient way to quickly build your initial vocabulary with ANKI loop through
 > For this I use [reverso context](https://context.reverso.net/traducao/).  Try to choose easier sentences with only one unknown word whenever possible.<br>
 3. <b>Add to anki</b><br>
 > Add the sentence in the target language on the front of an ANKI card with audio, and add the target word in bold. on the back you add the translation to your native language. I prefer to use google translations, as they are more reliable.<br>
-4. </b>Practice your Anki every day!</b><br>
+4. <b>Practice your Anki every day!</b><br>
 <br>
 
 Try to anki between 5 to 20 words a day, depending on your availability. This loop is specially suited for beginners.  After you pass initial vocabulary you can rely on the content you consume and stop using lists of words. 
