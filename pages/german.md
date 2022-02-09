@@ -13,7 +13,7 @@ Another episode just to illustrate: After my 4'th year of English classes, my te
 In Jan 2021 I was inspired by a French person, who learned Portuguese in only 2 months, and who taught me about spaced repetition in language learning, so I got the motivation to give it one more try.<br>
 Last year I passed the b2 certification in Goethe institute in 8 months of self-study, and feel confident to tackle my next 2 languages when the time comes. After one year of German I am reading Sapiens, a quite advanced book in vocabulary. I read my first book of english (kite runners) after 5 years of classes and by far had many more problems to grasp what was going on there.<br>
 So what Happened? What turned young me into the current me?<br>
-Here are my top tipps, if you struggle with the same problems I used to, and want to achieve the same results, or better ones!<br>
+Here are my top tipps, if you struggle with the same problems I used to, and want to achieve the same results, or better ones!
 <br><br>
 ## Anki looping
 <br>
