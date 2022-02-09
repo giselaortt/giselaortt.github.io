@@ -1,7 +1,7 @@
 ---
 layout: page
-subtitle: German in 8 months or my 
-title: german
+subtitle: Leraning languages with SSRS
+title: B2 in 8 months
 bigimg: "https://giselaortt.github.io/images/capas/mirante-janela-chapada-veadeiros.jpg"
 ---
 
