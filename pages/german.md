@@ -44,7 +44,7 @@ Try to anki between 5 to 20 words a day, depending on your availability. This lo
 - One way to easily grasp words while reading is this [website](https://chrome.google.com/webstore/detail/readlang-web-reader/odpdkefpnfejbfnmdilmfhephfffmfoh) that also has a [chrome extension](https://readlang.com/pt/dashboard)
 - I coded [this](https://github.com/giselaortt/Readlang_integration_to_anki) file parser that turns your Readlang file into a better ANKI formatting(requires that you use python).
 <br><br>
-#### credits to this method:
+### credits to this method:
 Like many things in life I did not compile this method from scratch, instead I learned to implement someone else's and made modifications to better suit it for me. People I need to give credit to are:
 Mairo Vergara and Tim ferriss
 <br><br>
