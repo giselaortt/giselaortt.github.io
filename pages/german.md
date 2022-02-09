@@ -46,7 +46,7 @@ Like many things in life I did not compile this method from scratch, instead I l
 <br><br>
 
 ## Couchsurfing
-<br>
+
 Couchsurfing is a paid Travel application. It is mainly used to request a free host when traveling and meeting locals. <br>
 A less common use of couchsurfing is to use it as a language practicing tool. It is way more efficient than tanden apps (in my opinion) because you can get to meet people in person more easily, at least when you live in a big or touristic city.<br>
 One important part about learning a language is to practice it a lot and couchsurfing is an efficient way to get you covered here.<br>
@@ -58,14 +58,14 @@ It is normal to be shy if you haven't mastered the language yet, but the sooner 
 <br><br>
 
 ## Learn genders and plurals from the start
-<br>
+
 One severe mistake I made when learning German is to procrastinate the genders and plurals until I was almost fluent, and most of the grammar. I thought I would learn them naturally over time, but in this specific language the words can change gender according to case. So for example, the feminine article die  becomes the masculin article der on dative case and genitive case.<br>
 As a consequence I came to learn several words as masculine, when in reality they are feminine! Now I made a gender and plurals Deck to reeducate myself and am slowly getting better, but it did cost me a lot of time.<br>
 So whenever adding a word to your vocabulary add the gender and plural. If you are adding a new verb, add to the same card information about its conjugation, is it a regular or irregular verb? Or in the case of German, is it a treenbar or untrennbar verb?<br>
 
 <br><br>
 ## Keeping the reading habit with Kindle
-<br>
+
 One important habit in order to become fluent in any language is reading. It is important to read something you are actually interested on, otherwise you can hardly keep motivated. <br>
 For me what worked is filling my kindle with german books. I can take it with me anywhere and have little bites of german practice on the go, on moments I would usually have nothing to do. Kindle allows users to read 10% of each book for free, which is often enough if you jump from one book to another. If you do intend to buy the books, there is a way to change your address on amazon website, and pretend you live in your target country. By doing this you get to buy the books much cheaper. You can also convert downloaded epubs and pdf's, or buy old books, they tend to be cheaper.<br>
 The only flaw I see on the method is, there is no easy way to add the new words to ANKI, if you read on the web you can easily copy and paste sentences. Nothing is perfect I guess.<br>
