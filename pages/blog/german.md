@@ -1,6 +1,6 @@
 ___
 layout: page
-subtitle:
+subtitle: german
 title:
 ___
 
