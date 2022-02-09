@@ -27,6 +27,7 @@ The single best tip is the Anki desktop app. If you can implement only one of th
 A common mistake is to believe that Anki is an app to learn. Anki is the most popular implementation of SSR(spaced repetition systems) which is the most optimal way to memorize things in general. Basically, anki is an application that guarantees you won't forget what you learned from other sources. It means it should be used alongside other methods, and you should not rely only on this. It is still important to consume content in your target language, read, speak, watch films, and whatever you can get. Your brain needs to make connections between these words in several contexts, instead of just remembering its translation. Whenever you learn a new word or grammar rule, add to anki you will remember it for longer, maybe forever.<br>
 
 An efficient way to quickly build your initial vocabulary with ANKI loop through these steps:
+
 1. <b>Find a list Most spoken words on target language</b>.
 > There are a few lists on mesmerize. I used the vocabulary B1 list from goethe institute. It also already comes with the sentences, so I got to skip step 2.
 2. <b>Search for sentences  with each word</b><br>
@@ -34,44 +35,44 @@ An efficient way to quickly build your initial vocabulary with ANKI loop through
 3. <b>Add to anki</b><br>
 > Add the sentence in the target language on the front of an ANKI card with audio, and add the target word in bold. on the back you add the translation to your native language. I prefer to use google translations, as they are more reliable.<br>
 4. </b>Practice your Anki every day!</b><br>
-
+<br>
 
 Try to anki between 5 to 20 words a day, depending on your availability. This loop is specially suited for beginners.  After you pass initial vocabulary you can rely on the content you consume and stop using lists of words. 
-
+<br><br>
 #### Anki tips:
 - One way to easily grasp sentences from videos and netflix is this chrome extension:  [Language Reactor](https://www.languagereactor.com/) S you don't need to rewrite the subtitles of your movies and can instead copy and paste from netflix and youtube.
 - One way to easily grasp words while reading is this [website](https://chrome.google.com/webstore/detail/readlang-web-reader/odpdkefpnfejbfnmdilmfhephfffmfoh) that also has a [chrome extension](https://readlang.com/pt/dashboard)
 - I coded [this](https://github.com/giselaortt/Readlang_integration_to_anki) file parser that turns your Readlang file into a better ANKI formatting(requires that you use python).
-
+<br><br>
 #### credits to this method:
 Like many things in life I did not compile this method from scratch, instead I learned to implement someone else's and made modifications to better suit it for me. People I need to give credit to are:
 Mairo Vergara and Tim ferriss
-
+<br><br>
 
 ## Couchsurfing
 
-
-Couchsurfing is a paid Travel application. It is mainly used to request a free host when traveling and meeting locals. 
-A less common use of couchsurfing is to use it as a language practicing tool. It is way more efficient than tanden apps (in my opinion) because you can get to meet people in person more easily, at least when you live in a big or touristic city.
-One important part about learning a language is to practice it a lot and couchsurfing is an efficient way to get you covered here.
-The way I use it is, search for members or travelers in my city, and add a filter of languages spoken. Then text everyone who you find with a friendly message in your target language and ask them to hang out.
-In my experience some people are very open to this app as long as you write an appropriate first message, that is, customized and that raises interest in you. Even when you write good messages some people might ignore you, be patient and don't give up. 
-In your presentation message you should always include something that shows you have read the person's profile. People like to think you have interest in them as people, So do not send the same message to everyone, customize it according to each potential speaking partner. 
-It is also important to present yourself as an interesting person they would like to know. One way to do it is to offer to give something in return for their time. For example, "I can show you the best restaurants in this city", or "I can teach you another language that I know". Another way is to comment on an interest you two have in common, if they like soccer and you are into soccer there you go, your ticket to an interesting conversation.
-It is normal to be shy if you haven't mastered the language yet, but the sooner you can overcome initial shyness the better. One way to avoid awful silences is to prepare a list of interesting questions you often ask when meeting new people, translate them to the target language and add them to your Anki. Prepare also your own answers to those questions and add them too, same for commonly asked questions people might ask you. If your speaking partner answers something you do not fully understand it is okay, your goal here is to keep the conversation flowing, keep it simply.
+<br><br>
+Couchsurfing is a paid Travel application. It is mainly used to request a free host when traveling and meeting locals. <br>
+A less common use of couchsurfing is to use it as a language practicing tool. It is way more efficient than tanden apps (in my opinion) because you can get to meet people in person more easily, at least when you live in a big or touristic city.<br>
+One important part about learning a language is to practice it a lot and couchsurfing is an efficient way to get you covered here.<br>
+The way I use it is, search for members or travelers in my city, and add a filter of languages spoken. Then text everyone who you find with a friendly message in your target language and ask them to hang out.<br>
+In my experience some people are very open to this app as long as you write an appropriate first message, that is, customized and that raises interest in you. Even when you write good messages some people might ignore you, be patient and don't give up. <br>
+In your presentation message you should always include something that shows you have read the person's profile. People like to think you have interest in them as people, So do not send the same message to everyone, customize it according to each potential speaking partner. <br>
+It is also important to present yourself as an interesting person they would like to know. One way to do it is to offer to give something in return for their time. For example, "I can show you the best restaurants in this city", or "I can teach you another language that I know". Another way is to comment on an interest you two have in common, if they like soccer and you are into soccer there you go, your ticket to an interesting conversation.<br>
+It is normal to be shy if you haven't mastered the language yet, but the sooner you can overcome initial shyness the better. One way to avoid awful silences is to prepare a list of interesting questions you often ask when meeting new people, translate them to the target language and add them to your Anki. Prepare also your own answers to those questions and add them too, same for commonly asked questions people might ask you. If your speaking partner answers something you do not fully understand it is okay, your goal here is to keep the conversation flowing, keep it simply.<br>
 
 
 ## Learn genders and plurals from the start
 
 
-One severe mistake I made when learning German is to procrastinate the genders and plurals until I was almost fluent, and most of the grammar. I thought I would learn them naturally over time, but in this specific language the words can change gender according to case. So for example, the feminine article die  becomes the masculin article der on dative case and genitive case.
-As a consequence I came to learn several words as masculine, when in reality they are feminine! Now I made a gender and plurals Deck to reeducate myself and am slowly getting better, but it did cost me a lot of time.
-So whenever adding a word to your vocabulary add the gender and plural. If you are adding a new verb, add to the same card information about its conjugation, is it a regular or irregular verb? Or in the case of German, is it a treenbar or untrennbar verb?
+One severe mistake I made when learning German is to procrastinate the genders and plurals until I was almost fluent, and most of the grammar. I thought I would learn them naturally over time, but in this specific language the words can change gender according to case. So for example, the feminine article die  becomes the masculin article der on dative case and genitive case.<br>
+As a consequence I came to learn several words as masculine, when in reality they are feminine! Now I made a gender and plurals Deck to reeducate myself and am slowly getting better, but it did cost me a lot of time.<br>
+So whenever adding a word to your vocabulary add the gender and plural. If you are adding a new verb, add to the same card information about its conjugation, is it a regular or irregular verb? Or in the case of German, is it a treenbar or untrennbar verb?<br>
 
 
 ## Keeping the reading habit with Kindle
 
 
-One important habit in order to become fluent in any language is reading. The most important thing here is, read something you are actually interested on. If you read for the obligation you will soon become bored and stop it. <br>
-For me what worked is filling my kindle with german books. I can take it with me anywhere and have little bites of german practice on the go, on moments I would usually have nothing to do. Kindle allows users to read 10% of each book for free, which is often enough if you jump from one book to another. If you do intend to buy the books, there is a way to change your address on amazon website, and pretend you live in your target country. By doing this you get to buy the books much cheaper. You can also convert downloaded epubs and pdf's, or buy old books, they tend to be cheaper.
-The only flaw I see on the method is, there is no easy way to add the new words to ANKI, if you read on the web you can easily copy and paste sentences. Nothing is perfect I guess.
+One important habit in order to become fluent in any language is reading. It is important to read something you are actually interested on, otherwise you can hardly keep motivated. <br>
+For me what worked is filling my kindle with german books. I can take it with me anywhere and have little bites of german practice on the go, on moments I would usually have nothing to do. Kindle allows users to read 10% of each book for free, which is often enough if you jump from one book to another. If you do intend to buy the books, there is a way to change your address on amazon website, and pretend you live in your target country. By doing this you get to buy the books much cheaper. You can also convert downloaded epubs and pdf's, or buy old books, they tend to be cheaper.<br>
+The only flaw I see on the method is, there is no easy way to add the new words to ANKI, if you read on the web you can easily copy and paste sentences. Nothing is perfect I guess.<br>
