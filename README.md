@@ -3,6 +3,7 @@
 # TO DO S:
 
 - Fix navbar on mobile
+- Learn how to add section link at the beginning of each post
 - allow comments from users
 - fix layout that doesnt bring sub pages
 - Make the cover fotos change from time to time -> debug the function to show cover photo!
