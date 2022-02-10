@@ -1,7 +1,7 @@
 ---
 layout: page
 subtitle: Tipps to learn languages with SRS
-title: How I got German B2 in 8 months
+title: Self-tought German B2 in 8 months
 bigimg: "https://giselaortt.github.io/images/capas/por-do-sol.jpg"
 share-img: "https://giselaortt.github.io/images/german_flag.png"
 ---
@@ -41,7 +41,7 @@ The easier and more automatic you make it to grasp new sentences the more likely
 
 - Easily grasp sentences from videos and netflix is this chrome extension:  [Language Reactor](https://www.languagereactor.com/) S you don't need to rewrite the subtitles of your movies and can instead copy and paste from netflix and youtube.
 - Automatically grasp words while reading with Readlang [website](https://chrome.google.com/webstore/detail/readlang-web-reader/odpdkefpnfejbfnmdilmfhephfffmfoh) that also has a [chrome extension](https://readlang.com/pt/dashboard)
-- I coded a file parser that turns your Readlang file into a better ANKI formatting(requires that you use python). It is available in this github [repo](https://github.com/giselaortt/Readlang_integration_to_anki).
+- I coded a file parser that turns your Readlang file into a better ANKI formatting(requires that you use python). It is available in this github [repo](https://github.com/giselaortt/Readlang_integration_to_anki). 
 have more tipss? reach out for me! I like to always improve on my method : )
 
 #### Credits to this method:
