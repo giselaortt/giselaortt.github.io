@@ -46,12 +46,13 @@ I started reading non-fiction in 2017 and have not stopped ever since. Here Are 
 > "Destraction management is anxiety management"
 
 - <b>How to Win Friends & Influence People</b>, <i>Dale Carnegie</i>
+- <b>The Noonday Demon: An Atlas of Depression</b>, <i>Andrew Solomon</i>
 - <b>On Writing: A Memoir of the Craft</b>, <i>Stephen King</i>
 - <b>Ten Arguments for Deleting Your Social Media Accounts Right Now </b>, <i>Jaron Lanier</i>
 > Sometimes go in oposition with "indistractable".
 
 - <b>The Pragmatist's Guide to Relationships</b>, <i>Malcolm J Collins, Simone H Collins</i>
-> Best book of their trilogy by far (Yes I read the three).
+> Best book of thos authors trilogy by far (Yes I read the three).
 
 
 ### Curently reading:
