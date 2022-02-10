@@ -2,7 +2,9 @@
 
 # TO DO S:
 
-- Fix navbar on mobile,
+- Fix navbar on mobile
+- allow comments from users
+- fix layout that doesnt bring sub pages
 - Make the cover fotos change from time to time -> debug the function to show cover photo!
 - Refactor messy code
 - Change layout for travel page to show bigger fotos
@@ -34,4 +36,4 @@ ext-css      | List of external CSS files to include in the page. External CSS f
 googlefonts | List of Google fonts to include in the page (eg. `["Monoton", "Lobster"]`)
 
 
-Most of this code was originally from beautifulljekyl project. I did a few editions on my version, and the version i initially forked carried some modification too.
+Most of this code was originally from beautifulljekyl project. I did a few editions on my version, and the version i initially forked carried some modification from other users too.
