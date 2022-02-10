@@ -72,3 +72,7 @@ So whenever adding a word to your vocabulary add the gender and plural. If you a
 One important habit in order to become fluent in any language is reading. It is important to read something you are actually interested on, otherwise you can hardly keep motivated. <br>
 For me what worked is filling my kindle with german books. I can take it with me anywhere and have little bites of german practice on the go, on moments I would usually have nothing to do. <br>Kindle comes with an integratd dictionary, so it is way more convenient to read in forengn languages than needing to open the google translator just to check for that word, specially in comparison to reading on the paper.<br> On top of that, Kindle allows users to read 10% of each book for free, which is often enough if you jump from one book to another. If you do buy the books, there is a way to change your address on amazon website, and pretend you live in your target country. By doing this you get to buy the books much cheaper. You can also convert downloaded epubs and pdf's, or buy old books, those tend to be cheaper.<br>
 The only flaw I see on the method is, there is no easy way to add the new words to ANKI, if you read on the web you can easily copy and paste sentences. Nothing is perfect I guess.<br>
+
+
+
+If you have any questions reach out by e-mail (see on footer).
