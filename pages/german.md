@@ -1,7 +1,7 @@
 ---
 layout: page
-subtitle: Self-tought German B2 in 8 months
-title: Tipps language learning
+subtitle: from self-tought German B2 in 8 months
+title: Tipps for language learning
 bigimg: "https://giselaortt.github.io/images/capas/por-do-sol.jpg"
 share-img: "https://giselaortt.github.io/images/german_flag.png"
 ---
