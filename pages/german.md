@@ -1,7 +1,7 @@
 ---
 layout: page
-subtitle: Tipps to learn languages with SRS
-title: Self-tought German B2 in 8 months
+subtitle: Self-tought German B2 in 8 months
+title: Tipps language learning
 bigimg: "https://giselaortt.github.io/images/capas/por-do-sol.jpg"
 share-img: "https://giselaortt.github.io/images/german_flag.png"
 ---
