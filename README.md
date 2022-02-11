@@ -3,7 +3,7 @@
 # TO DO S:
 
 - Fix navbar on mobile
-- Learn to ass language button
+- Learn to add multiple languages
 - Include source section on page layout
 - Learn how to add section links at the beginning of each post
 - allow comments from users
