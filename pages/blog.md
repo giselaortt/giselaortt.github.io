@@ -21,4 +21,4 @@ check out my first post!
 
 
 
-[dont click this link](blog/blog-post): tiny test on how to use jekyll
+[dont click this link](../pages/blog/blog-post.md): tiny test on how to use jekyll
