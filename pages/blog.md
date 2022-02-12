@@ -19,3 +19,6 @@ check out my first post!
 
 [How I learned German in 8 months!](german.md): tipps on how to learn a languages quicker with Spaced Repetition Systems!
 
+
+
+[dont click this link](blog-post.md): tiny test on how to use jekyll
