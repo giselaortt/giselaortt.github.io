@@ -12,7 +12,7 @@ bigimg: "https://giselaortt.github.io/images/capas/mirante-janela-chapada-veadei
 [//]: # and this is how to link a post on the page
 [//]: # - [<u>Testando</u>](../_posts/2020-02-26-flake-it-till-you-make-it.md):test
 
-[//]: # this is how i can link another page in this page, even if its not in my page tree
+[//]: # this is how i can link another page in this page folder, even if its not in my page tree
 [//]: # - [<u>test 2</u>](books.md): test
 
 check out my first post!
@@ -21,4 +21,4 @@ check out my first post!
 
 
 
-[dont click this link](blog/blog-post.md): tiny test on how to use jekyll
+[dont click this link](blog/blog-post): tiny test on how to use jekyll
