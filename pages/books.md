@@ -2,7 +2,7 @@
 layout: page
 title: Books
 use-site-title: true
-subtitle: this is my personal bookshelf
+subtitle: non-fiction books I consider most useful
 bigimg: "https://giselaortt.github.io/images/capas/pico-do-papagaio.jpg"
 ---
 [//]: # 
