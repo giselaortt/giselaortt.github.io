@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Blog
-subtitle: Here is where I share useful stories with my peers
 use-site-title: true
 bigimg: "https://giselaortt.github.io/images/capas/mirante-janela-chapada-veadeiros.jpg"
 ---
