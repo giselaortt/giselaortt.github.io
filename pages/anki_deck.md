@@ -20,15 +20,11 @@ The list of nouns came from this book: [A Frequency Dictionary of German](https:
 But I got them already parsed from this other deck: [A Frequency Dictionary of German](https://ankiweb.net/shared/info/912352287)
 Plurals were taken from this website: [Verbformen](https://www.verbformen.pt/declinacao/substantivos/Kenntnis.htm)<br>
 The audio is included on my template, all you need is to have [awesomeTTS](https://ankiweb.net/shared/info/814349176) installed and access to internet.<br>
-
+And here is the [anki deck](SOON) to download!
+<br>
 
 ## Implementation:
 
 I used python to parse the flashcards and beautifulsoup to scrap the information about the plurals, since the book does not contains the plurals.<br>
 Check the code at my [github!](https://github.com/giselaortt/Tools-for-Anki/tree/main/eliminate_repetitions)<br>
 The code can be easily adapted to create flashcards in other languages.<br>
-
-## The deck:
-
-And here is the [anki deck](SOON) to download!
-
