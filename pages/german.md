@@ -1,7 +1,7 @@
 ---
 layout: page
-subtitle: Self-tought German B2 in 8 months
-title: Tipps language learning
+subtitle: How I self-taught German until B2 in 8 months
+title: Tipps for language learning
 bigimg: "https://giselaortt.github.io/images/capas/por-do-sol.jpg"
 share-img: "https://giselaortt.github.io/images/german_flag.png"
 ---
@@ -32,9 +32,10 @@ An efficient way to quickly build your initial vocabulary with ANKI loop through
 3. <b>Add to anki</b><br>
 > Add the sentence in the target language on the front of an ANKI card with audio, and add the target word in bold. on the back you add the translation to your native language. I prefer to use google translations, as they are more reliable.<br>
 4. <b>Practice your Anki every day!</b><br>
+> Between 5 to 20 new words a day, depending on your availability. It is important to do all your reviews every day. <b>Remember to set your limit of reviews/day to a high number</b>, If you don't the app will automatically limit you to 50 and the method will not work..
 <br>
 
-Try to anki between 5 to 20 words a day, depending on your availability. <b>This loop is specially suited for beginners</b>.  After you pass initial vocabulary you can rely on the content you consume and stop using lists of words. 
+<b>This loop is specially suited for beginners</b>.  After you pass initial vocabulary you can rely on the content you consume and stop using lists of words. 
 <br><br>
 #### Anki tips:
 The easier and more automatic you make it to grasp new sentences the more likely you are to actually stick with the habit. How many habits you know are useful but you dont implement on your daily routine? I have also many moments when I dont feel like adding a word and end up forgeting it, but ANKI is only as useful as you make it to be. So here is a few ways to make it easier:
@@ -71,3 +72,7 @@ So whenever adding a word to your vocabulary add the gender and plural. If you a
 One important habit in order to become fluent in any language is reading. It is important to read something you are actually interested on, otherwise you can hardly keep motivated. <br>
 For me what worked is filling my kindle with german books. I can take it with me anywhere and have little bites of german practice on the go, on moments I would usually have nothing to do. <br>Kindle comes with an integratd dictionary, so it is way more convenient to read in forengn languages than needing to open the google translator just to check for that word, specially in comparison to reading on the paper.<br> On top of that, Kindle allows users to read 10% of each book for free, which is often enough if you jump from one book to another. If you do buy the books, there is a way to change your address on amazon website, and pretend you live in your target country. By doing this you get to buy the books much cheaper. You can also convert downloaded epubs and pdf's, or buy old books, those tend to be cheaper.<br>
 The only flaw I see on the method is, there is no easy way to add the new words to ANKI, if you read on the web you can easily copy and paste sentences. Nothing is perfect I guess.<br>
+
+
+
+If you have any questions reach out by e-mail (see on footer).

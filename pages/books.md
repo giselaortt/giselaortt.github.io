@@ -2,7 +2,7 @@
 layout: page
 title: Books
 use-site-title: true
-subtitle: this is my personal bookshelf
+subtitle: non-fiction books I consider most useful
 bigimg: "https://giselaortt.github.io/images/capas/pico-do-papagaio.jpg"
 ---
 [//]: # 
@@ -52,7 +52,7 @@ I started reading non-fiction in 2017 and have not stopped ever since. Here Are 
 > Sometimes go in oposition with "indistractable".
 
 - <b>The Pragmatist's Guide to Relationships</b>, <i>Malcolm J Collins, Simone H Collins</i>
-> Best book of thos authors trilogy by far (Yes I read the three).
+- <b>The Sixth Extinction: An Unnatural History</b>, <i>Elizabeth Kolbert</i>
 
 
 ### Curently reading:
