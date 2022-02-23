@@ -15,7 +15,9 @@ bigimg: "https://giselaortt.github.io/images/capas/mirante-janela-chapada-veadei
 [//]: # this is how i can link another page in this page, even if its not in my page tree
 [//]: # - [<u>test 2</u>](books.md): test
 
-check out my first post!
 
 [How I learned German in 8 months!](german.md): tipps on how to learn a languages quicker with Spaced Repetition Systems!
+
+
+[Anki Deck:](anki_deck.md) Learning gender and plural of most spoken German nouns with translations and audio on the go!
 
