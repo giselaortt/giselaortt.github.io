@@ -17,7 +17,7 @@ It is indeed a commom problem among german learners, as the plurals in german do
 
 This deck is not intended to learn the meaning of words, instead to learn to retrieve the gender and plural of each german noun(although it contains the english translation). It contains more than 2 thousand german nouns.<br>
 The audio is included on my template, all you need is to have [awesomeTTS](https://ankiweb.net/shared/info/814349176) installed and access to internet.<br>
-And here is the [anki deck](SOON) to download!
+And here is the [anki deck](https://ankiweb.net/shared/info/496447044) to download!
 <br>
 
 ## Implementation:
