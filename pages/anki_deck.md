@@ -19,6 +19,8 @@ This deck is not intended to learn the meaning of words, instead to learn to ret
 The audio is included on my template, all you need is to have [awesomeTTS](https://ankiweb.net/shared/info/814349176) installed and access to internet.<br>
 And here is the [anki deck](https://ankiweb.net/shared/info/670301379) to download!
 <br>
+Since they came from an automatic parsing the deck is expected to contain a few mistakes. I have corrected manually the ones I could find, But I count on german learning comunity to help me check the rest of the deck. Please email me if you find any errors so I can update the deck right away. <br>
+
 
 ## Implementation:
 
