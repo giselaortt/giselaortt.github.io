@@ -10,7 +10,7 @@ share-img: "https://giselaortt.github.io/images/german_flag.png"
 ## Motivation:
 
 As mentioned in my previous post I have taken too long to initiate on german grammar, as I thought it was not as important. I wasn't aware that the german articles can switch gender according to case(the articles die become der in dative and genitiv!) and now I ended up learning several words as masculine when in reality they are feminim.<br>
-It is indeed a commom problem among german learners, as the plurals in german do not obbey any rule, and the genders are so important for the correctedness of the sentences. As the only previous deck I could find with this content carried several mistakes, I decided to implement my own.
+It is indeed a commom problem among german learners, as the plurals in german do not obbey any rule, and the genders are so important for the formation os cases (dative, genitiv, etc.). As the only previous deck I could find with this content carried several mistakes, I decided to implement my own.
 <br>
 
 ## This deck:
