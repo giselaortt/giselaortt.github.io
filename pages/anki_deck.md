@@ -26,5 +26,5 @@ I used python to parse the flashcards and beautifulsoup to scrap the information
 The list of nouns came from this book: [A Frequency Dictionary of German](https://www.amazon.com.br/Frequency-Dictionary-German-Vocabulary-Learners/dp/0415316332)<br>
 But I got them already parsed from this other deck: [A Frequency Dictionary of German](https://ankiweb.net/shared/info/912352287)<br>
 Plurals were taken from this website: [Verbformen](https://www.verbformen.pt/declinacao/substantivos/Kenntnis.htm)<br>
-Check the code at my [github!](https://github.com/giselaortt/Tools-for-Anki/tree/main/eliminate_repetitions)<br>
+Check the code at my [github!](https://github.com/giselaortt/Tools-for-Anki/blob/main/eliminate_repetitions/generate_plurals.py)<br>
 The code can be easily adapted to create flashcards in other languages.<br>
