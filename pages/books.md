@@ -3,7 +3,7 @@ layout: page
 title: Books
 use-site-title: true
 subtitle: non-fiction books I consider most useful
-bigimg: "/images/capas/pico-do-papagaio.jpg"
+bigimg: ["/images/capas/pico-do-papagaio.jpg" : "Pico do Papagayo, Ilha Grande, RJ - 2021"]
 ---
 [//]: # 
 [//]: #  - [<u>Recomendations</u>](recomendations): My favorite books

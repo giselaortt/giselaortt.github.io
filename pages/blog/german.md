@@ -2,7 +2,7 @@
 layout: page
 subtitle: How I self-taught German until B2 in 8 months
 title: Tipps for language learning
-bigimg: "/images/capas/por-do-sol.jpg"
+bigimg: ["/images/capas/por-do-sol.jpg" : "São Paulo"]
 share-img: "/images/german_flag.png"
 ---
 
