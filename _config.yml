@@ -15,7 +15,6 @@ description: "Portfolio"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Travel: "pages/travel"
   Blog: "pages/blog"
   Books: "pages/books"
   CV: "pages/cv"
