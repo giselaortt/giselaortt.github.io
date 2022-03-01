@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Studies
-bigimg: ["/images/capas/chile-lhamas.jpg" : "Atacama, Chile - 2019",
+bigimg: ["/images/capas/chile-lhamas.jpg" : "San Pedro de Atacama - 2019",
         "/images/capas/salinas-azul.jpg" : "Salinas grandes - 2019"]
 ---
 
