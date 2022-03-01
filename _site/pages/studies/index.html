@@ -69,7 +69,7 @@
   
 
   
-  <meta property="og:image" content="http://localhost:4000/static/profile.png" />
+  <meta property="og:image" content="http://localhost:4000/images/profile.png" />
   
 
 
@@ -87,7 +87,7 @@
   
 
   
-  <meta name="twitter:image" content="http://localhost:4000/static/profile.png" />
+  <meta name="twitter:image" content="http://localhost:4000/images/profile.png" />
   
 
   <script
@@ -217,7 +217,7 @@
 	<div class="avatar-container">
 	  <div class="avatar-img-border">
 	    <a href="http://localhost:4000 ">
-	      <img class="avatar-img" src="/static/profile.png" />
+	      <img class="avatar-img" src="/images/profile.png" />
 		</a>
 	  </div>
 	</div>
@@ -227,32 +227,26 @@
 </nav>
 
 
-    
+    <!-- TODO this file has become a mess, refactor it -->
 
 
-<!-- consegui detectar que a fonte do problema NÃO está aqui! -->
 
-<!-- 
 
   <div id="header-big-imgs" data-num-img=1
     
 	  
-      
-        
-          data-img-src-1="http:/localhost:4000https:/giselaortt.github.io/images/capas/chile-lhamas.jpg"
-        
-      
+	  
+	    
+		  data-img-src-1="https:/giselaortt.github.io/images/capas/chile-lhamas.jpg"
+		
+	  
     
   ></div>
 
- -->
- 
+
 <header class="header-section has-img">
 
-<!--  -->
-<!--  -->
-<!--  -->
-<div class="big-img intro-header" style="background-image: url(https://giselaortt.github.io/images/capas/chile-lhamas.jpg)">
+<div class="big-img intro-header">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -361,28 +355,28 @@
           
           <li>
             <a href="https://www.couchsurfing.com/people/giselaortt" title="Couchsurfing">
-                 <img src = "../../images/logos/couchsurfingBW.png"  alt=""  height="37.328"  width="37.328" >
+                 <img src = "../../../images/logos/couchsurfingBW.png"  alt=""  height="37.328"  width="37.328" >
             </a>
           </li>
           
           
           <li>
             <a href="https://github.com/giselaortt" title="GitHub">
-                <img src = "../../images/logos/githubLogo.png"  alt=""  height="37.328"  width="37.328" >
+                <img src = "../../../images/logos/githubLogo.png"  alt=""  height="37.328"  width="37.328" >
             </a>
           </li>
           
 		      
           <li>
             <a href="mailto:ms.giselaortt@gmail.com" title="Email me">
-                <img src = "../../images/logos/emailLogo.png"  alt=""  height="37.328"  width="37.328" >
+                <img src = "../../../images/logos/emailLogo.png"  alt=""  height="37.328"  width="37.328" >
             </a>
           </li>
           
 		      
           <li>
             <a href="https://linkedin.com/in/gisela-ortt-2bb40a196" title="LinkedIn">
-                <img src = "../../images/logos/linkedinBW.png"  alt=""  height="37.328"  width="37.328" >
+                <img src = "../../../images/logos/linkedinBW.png"  alt=""  height="37.328"  width="37.328" >
             </a>
           </li>
           
@@ -390,7 +384,7 @@
 		      
           <li>
             <a href="https://t.me/giselaortt" >
-                <img src = "../../images/logos/telegramBW.png"  alt=""  height="37.328"  width="37.328" >
+                <img src = "../../../images/logos/telegramBW.png"  alt=""  height="37.328"  width="37.328" >
             </a>
           </li>
           
@@ -398,7 +392,7 @@
           
           <li>
             <a href="https://www.instagram.com/giselaortt" title="Instagram">
-                <img src = "../../images/logos/instagramBW.png"  alt=""  height="37.328"  width="37.328" >
+                <img src = "../../../images/logos/instagramBW.png"  alt=""  height="37.328"  width="37.328" >
             </a>
           </li>
           
@@ -419,5 +413,47 @@
   </div>
 </footer>
 
+  
     
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+	<!-- Google Analytics -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', '', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<!-- End Google Analytics -->
+
+
 </html>
