@@ -2,7 +2,7 @@
 layout: page
 title: Blog
 use-site-title: true
-bigimg: "https://giselaortt.github.io/images/capas/mirante-janela-chapada-veadeiros.jpg"
+bigimg: "/images/capas/mirante-janela-chapada-veadeiros.jpg"
 ---
  
 
