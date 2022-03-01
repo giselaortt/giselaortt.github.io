@@ -1,7 +1,7 @@
 # TO DO S:
 
 - Fix navbar on mobile -> Doone on 28/02
-- fix layout that doesnt bring sub pages -> Done
+- fix layout that doesnt bring sub pages -> Done 28/02
 - Learn to add multiple languages
 - Include source section on page layout
 - Learn how to add section links at the beginning of each post
