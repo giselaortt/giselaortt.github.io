@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Studies
-bigimg: "/images/capas/chile-lhamas.jpg"
+bigimg: ["/images/capas/chile-lhamas.jpg" : "Atacama, Chile - 2019",
+        "/images/capas/salinas-azul.jpg" : "Salinas grandes - 2019"]
 ---
 
 ### Topics that I have studied recently:

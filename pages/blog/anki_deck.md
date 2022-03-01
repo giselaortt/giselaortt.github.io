@@ -2,7 +2,7 @@
 layout: page
 subtitle: retrieve gender and plurals with audio on the go
 title: ANKI Deck of Most Spoken German Nouns
-bigimg: "/images/capas/salinas_nuvem.jpg"
+bigimg: ["/images/capas/salinas_nuvem.jpg" : "Salinas grandes - 2019"]
 share-img: "/images/german_flag.png"
 ---
 

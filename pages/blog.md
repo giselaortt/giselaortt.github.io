@@ -2,7 +2,8 @@
 layout: page
 title: Blog
 use-site-title: true
-bigimg: "/images/capas/mirante-janela-chapada-veadeiros.jpg"
+bigimg: ["/images/capas/mirante-janela-chapada-veadeiros.jpg" : "Chapada dos veadeiros - 2021",
+        "/images/capas/chile-vale-da-lua.jpg" : "San Pedro de Atacama - 2019"]
 ---
  
 
