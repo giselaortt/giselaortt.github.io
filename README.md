@@ -1,11 +1,11 @@
 # TO DO S:
 
-- Fix navbar on mobile
+- Fix navbar on mobile -> Doone on 28/02
+- fix layout that doesnt bring sub pages -> Done
 - Learn to add multiple languages
 - Include source section on page layout
 - Learn how to add section links at the beginning of each post
 - allow comments from users
-- fix layout that doesnt bring sub pages
 - Make the cover fotos change from time to time -> debug the function to show cover photo!
 - Refactor messy code
 - Change layout for travel page to show bigger fotos
