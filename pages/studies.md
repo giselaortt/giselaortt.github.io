@@ -7,7 +7,7 @@ bigimg: "/images/capas/chile-lhamas.jpg"
 ### Topics that I have studied recently:
 
 - 2022/Jan - Keras, Tensorflow, python review
-> took [Kaggle courses](https://www.kaggle.com/learn)(Higly recomend!) on ML liberies.
+> took [Kaggle courses](https://www.kaggle.com/learn) on ML liberies.
 
 - 2021/2nd Clean Code
 > read this [book](https://enos.itcollege.ee/~jpoial/oop/naited/Clean%20Code.pdf)
