@@ -2,8 +2,8 @@
 layout: page
 subtitle: How I self-taught German until B2 in 8 months
 title: Tipps for language learning
-bigimg: "https://giselaortt.github.io/images/capas/por-do-sol.jpg"
-share-img: "https://giselaortt.github.io/images/german_flag.png"
+bigimg: "/images/capas/por-do-sol.jpg"
+share-img: "/images/german_flag.png"
 ---
 
 ## Intro

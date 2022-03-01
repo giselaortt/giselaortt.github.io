@@ -3,7 +3,7 @@ layout: page
 title: Books
 use-site-title: true
 subtitle: non-fiction books I consider most useful
-bigimg: "https://giselaortt.github.io/images/capas/pico-do-papagaio.jpg"
+bigimg: "/images/capas/pico-do-papagaio.jpg"
 ---
 [//]: # 
 [//]: #  - [<u>Recomendations</u>](recomendations): My favorite books

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Studies
-bigimg: "https://giselaortt.github.io/images/capas/chile-lhamas.jpg"
+bigimg: "/images/capas/chile-lhamas.jpg"
 ---
 
 ### Topics that I have studied recently:

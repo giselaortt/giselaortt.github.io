@@ -2,8 +2,8 @@
 layout: page
 subtitle: retrieve gender and plurals with audio on the go
 title: ANKI Deck of Most Spoken German Nouns
-bigimg: "https://giselaortt.github.io/images/capas/salinas_nuvem.jpg"
-share-img: "https://giselaortt.github.io/images/german_flag.png"
+bigimg: "/images/capas/salinas_nuvem.jpg"
+share-img: "/images/german_flag.png"
 ---
 
 
