@@ -2,7 +2,20 @@
 layout: page
 subtitle: retrieve gender and plurals with audio on the go
 title: ANKI Deck of Most Spoken German Nouns
-bigimg: ["/images/capas/salinas_nuvem.jpg" : "Salinas grandes - 2019"]
+bigimg: ["/images/capas/por-do-sol.jpg",
+          "/images/capas/chile-montanhas.jpg" : "Pumamarca, Chile - 2019",
+          "/images/capas/pico-do-papagaio.jpg" : "Pico do Papagayo, Ilha Grande, RJ - 2021",
+          "/images/capas/mirante-janela-chapada-veadeiros.jpg" : "Chapada dos veadeiros - 2021",
+          "/images/capas/vale-da-lua.jpg" : "Chapada dos veadeiros - 2021",
+          "/images/capas/gavea.jpg" : "RJ - 2021",
+          "/images/capas/salinas.jpg" : "Salinas grandes - 2019",
+          "/images/capas/salinas_nuvem.jpg" : "Salinas grandes - 2019",
+          "/images/capas/tirolesa_ponta_grossa.jpg" : "Ponta Grossa, PA - 2021",
+          "/images/capas/riodejaneiro.jpg" : "RJ - 2021",
+          "/images/capas/salinas-azul.jpg" : "Salinas grandes - 2019",
+          "/images/capas/chile-vale-da-lua.jpg" :  "San Pedro de Atacama - 2019",
+          "/images/capas/chile-lhamas.jpg" : "San Pedro de Atacama - 2019",
+          "/images/capas/bahia-nascer-do-sol.jpg" : "Bahia - 2019" ]
 share-img: "/images/german_flag.png"
 ---
 
