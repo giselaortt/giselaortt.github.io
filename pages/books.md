@@ -10,7 +10,8 @@ bigimg: ["/images/capas/pico-do-papagaio.jpg" : "Pico do Papagayo, Ilha Grande, 
 [//]: #  - [<u>Reading</u>](reading): My reading list
 
 
-I started reading non-fiction in 2017 and have not stopped ever since. Here Are some recomendations I have and eventually a review.
+I carry reading habit from childhood but used to read only fiction. I started reading non-fiction in 2017 and have not stopped ever since. Here Are some recomendations I have and eventually a review.
+If you also into books and would like to disscuss feel free to reach out!
 
 ### My top books:
 - <b>Mindset</b>, <i>Carol Dwerk</i>
