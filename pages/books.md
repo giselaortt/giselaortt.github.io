@@ -47,6 +47,7 @@ I started reading non-fiction in 2017 and have not stopped ever since. Here Are 
 - <b>The Surprising Purpose of Anger: Beyond Anger Management</b>, <i>Marshall Rosenberg</i>
 - <b>The Drunkard's Walk: How Randomness Rules Our Lives</b>, <i>Leonard Mlodinow</i>
 - <b>Deep work</b>, <i>Cal Newport</i>
+- <b>The Burnout Society</b>,<i>Byung-Chul Han</i>
 - <b>Indistractable</b>, <i>Nir Eyal</i>
 > "Destraction management is anxiety management"
   
