@@ -3,7 +3,7 @@
 - Fix navbar on mobile -> Doone on 28/02
 - fix layout that doesnt bring sub pages -> Done 28/02
 - Make the cover fotos change from time to time -> debug the function to show cover photo! -> Done 28/02
-- Implement automatic Markdown Table of contents
+- Implement automatic markdown table of contents
 - Learn to add multiple languages
 - Include source section on page layout
 - Learn how to add section links at the beginning of each post
