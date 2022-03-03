@@ -13,6 +13,9 @@ title: Studies
 
 - 2021/2nd Unit Tests with python
 
+- 2021/1st Data Sciences
+> Took 3 courses from University of Michigan on Coursera, [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/verify/KEH99QY5UA5K?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course), [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/verify/D2MEKANP2NHG?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course), [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/2GFRD58W9A4F?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+
 - 2021/1st - In-depth German grammar and vocabulary
 >  B2 reached from Goethe Institute
 
