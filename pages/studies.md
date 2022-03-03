@@ -1,26 +1,12 @@
 ---
 layout: page
 title: Studies
-bigimg: ["/images/capas/por-do-sol.jpg",
-          "/images/capas/chile-montanhas.jpg" : "Pumamarca, Chile - 2019",
-          "/images/capas/pico-do-papagaio.jpg" : "Pico do Papagayo, Ilha Grande, RJ - 2021",
-          "/images/capas/mirante-janela-chapada-veadeiros.jpg" : "Chapada dos veadeiros - 2021",
-          "/images/capas/vale-da-lua.jpg" : "Chapada dos veadeiros - 2021",
-          "/images/capas/gavea.jpg" : "RJ - 2021",
-          "/images/capas/salinas.jpg" : "Salinas grandes - 2019",
-          "/images/capas/salinas_nuvem.jpg" : "Salinas grandes - 2019",
-          "/images/capas/tirolesa_ponta_grossa.jpg" : "Ponta Grossa, PA - 2021",
-          "/images/capas/riodejaneiro.jpg" : "RJ - 2021",
-          "/images/capas/salinas-azul.jpg" : "Salinas grandes - 2019",
-          "/images/capas/chile-vale-da-lua.jpg" :  "San Pedro de Atacama - 2019",
-          "/images/capas/chile-lhamas.jpg" : "San Pedro de Atacama - 2019",
-          "/images/capas/bahia-nascer-do-sol.jpg" : "Bahia - 2019" ]
 ---
 
 ### Topics that I have studied recently:
 
 - 2022/Jan - Keras, Tensorflow, python review
-> took [Kaggle courses](https://www.kaggle.com/learn) on ML liberies.
+> took Kaggle courses on [Computer Vision](https://www.kaggle.com/learn/certification/giselaortt/computer-vision), [pandas](https://www.kaggle.com/learn/certification/giselaortt/pandas), [intro](https://www.kaggle.com/learn/certification/giselaortt/intro-to-machine-learning) and [intermediate Machine Learning](https://www.kaggle.com/learn/certification/giselaortt/intermediate-machine-learning)
 
 - 2021/2nd Clean Code
 > read this [book](https://enos.itcollege.ee/~jpoial/oop/naited/Clean%20Code.pdf)
@@ -35,7 +21,7 @@ bigimg: ["/images/capas/por-do-sol.jpg",
 - Django
 
 - SQL 
-> started with [this course](https://www.kaggle.com/learn/intro-to-sql) from kaggle
+> started with [this kaggle course](https://www.kaggle.com/learn/certification/giselaortt/intro-to-sql)
 
 - HTML/CSS
 > taking [this](https://www.w3schools.com/html/html_css.asp) and [this](https://www.w3schools.com/html/html_basic.asp) course from w3 school.
