@@ -19,7 +19,7 @@ title: Studies
 - 2021/1st - In-depth German grammar and vocabulary
 >  B2 reached from Goethe Institute
 
-### Topics that I am studying now / Goals for this semster:
+### Topics that I am studying/reviewing now / Goals for this semster:
 
 - Django
 
@@ -29,6 +29,8 @@ title: Studies
 - HTML/CSS
 > taking [this](https://www.w3schools.com/html/html_css.asp) and [this](https://www.w3schools.com/html/html_basic.asp) course from w3 school.
 
+- Non Violent Comunication
+
 
 ### Topics that I plan to study/revi ew soon:
 
@@ -37,6 +39,8 @@ title: Studies
 - Theory of ML
 
 - Data science
+
+-French and Spanish
 
 [//]: ### Courses that i highly recomend:
 [//]: #  Mello machine learning and data science
