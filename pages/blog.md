@@ -31,7 +31,7 @@ bigimg: ["/images/capas/por-do-sol.jpg",
 [How I learned German in 8 months!](german): tipps on how to learn a languages quicker with Spaced Repetition Systems!
 
 
-[Anki Deck:](pages/anki_deck/) Learning gender and plural of most spoken German nouns with translations and audio on the go!
+[Anki Deck:](anki_deck/) Learning gender and plural of most spoken German nouns with translations and audio on the go!
 
 
 [My first public ANKI add-on!](https://ankiweb.net/shared/info/1573325751) I changed an existing add-on to allow for 12 options multiple choice!
