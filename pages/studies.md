@@ -25,11 +25,10 @@ title: Studies
 
 - SQL 
 > started with [this kaggle course](https://www.kaggle.com/learn/certification/giselaortt/intro-to-sql)
+> Then I completed the [Advanced SQL](https://www.kaggle.com/learn/certification/giselaortt/advanced-sql) course
 
 - HTML/CSS
 > taking [this](https://www.w3schools.com/html/html_css.asp) and [this](https://www.w3schools.com/html/html_basic.asp) course from w3 school.
-
-- Non Violent Comunication
 
 
 ### Topics that I plan to study/revi ew soon:
