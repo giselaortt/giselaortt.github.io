@@ -49,7 +49,7 @@ If you are also into books and would like to disscuss feel free to reach out!
 - <b>Neurofitness</b>, <i>Rahul Jandial</i>
 - <b>Focusing</b>, <i>Eugene T. Gendlin</i>
 > Very easy and fluid book. Interesting perspective on how much of Psycology tends to be a waste and how much of the ability for healing lies on the patient, not on the therapist.
-> It provides a nice alternative for psychological healing. However, the practice of the tecnique is much harder then reading the book itself, if you don't intend to invest a lot of time on this, skip this one.
+> It provides a nice alternative for psychological healing. However, the practice of the tecnique is much harder then I thought snd more time consuming then reading the book itself, so unless you have some time and focus to invest in this, do not read.
 
 - <b>Weapons of Math Destruction</b>, <i>Cathy O'Neil</i>
 - <b>The Drunkard's Walk: How Randomness Rules Our Lives</b>, <i>Leonard Mlodinow</i>
