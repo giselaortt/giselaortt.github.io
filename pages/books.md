@@ -75,7 +75,7 @@ If you are also into books and would like to disscuss feel free to reach out!
 > It is great to be more aware of the environment and society biases that can sometimes act as a drawback for girls in tech fields like me.
 
 - <b>Unwinding Anxiety</b>, <i>Judson Brewer</i>
-> Great and useful but the author extends himself a bit. Read it if you struggle with craving, procrastination, anxiety, and any form of addiction.
+> Great and insightful but the author extends himself a bit. Read it if you struggle with craving, procrastination, anxiety, depression, and any form of addiction.
 
 ### Curently reading:
 - <b>Noise</b>, <i>Daniel Kahneman</i>
