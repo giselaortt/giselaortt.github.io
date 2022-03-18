@@ -23,7 +23,6 @@ If you are also into books and would like to disscuss feel free to reach out!
 
 ### Other useful books:
 - <b>Mindset</b>, <i>Carol Dwerk</i>
-
 - <b>Non-violent comunication</b>, <i>Marshall Rosenberg</i>
 > Single best book for better relationships
 
