@@ -24,8 +24,9 @@ title: Studies
 - Django
 
 - SQL 
-> started with [this kaggle course](https://www.kaggle.com/learn/certification/giselaortt/intro-to-sql)
-> Then I completed the [Advanced SQL](https://www.kaggle.com/learn/certification/giselaortt/advanced-sql) course
+> started with [this intro SQL kaggle course](https://www.kaggle.com/learn/certification/giselaortt/intro-to-sql)
+> Then I completed the [Advanced SQL](https://www.kaggle.com/learn/certification/giselaortt/advanced-sql) kaggle course
+> Solving SQL problem from [beecrowd](https://www.beecrowd.com.br/) website, see the solutions [here](https://github.com/giselaortt/beecrowd/tree/main/SQL).
 
 - HTML/CSS
 > taking [this](https://www.w3schools.com/html/html_css.asp) and [this](https://www.w3schools.com/html/html_basic.asp) course from w3 school.
