@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Studies
+subtitle: This is where I will try to convince you to hire me
 ---
 
 ### Topics that I have studied recently:
