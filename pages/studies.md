@@ -26,7 +26,7 @@ subtitle: This is where I will try to convince you to hire me
 
 - SQL 
 > started with [this intro SQL kaggle course](https://www.kaggle.com/learn/certification/giselaortt/intro-to-sql)
-> Then I completed the [Advanced SQL](https://www.kaggle.com/learn/certification/giselaortt/advanced-sql) kaggle course
+> Then I completed the [Advanced SQL](https://www.kaggle.com/learn/certification/giselaortt/advanced-sql) kaggle course.
 > Solving SQL problem from [beecrowd](https://www.beecrowd.com.br/) website, see the solutions [here](https://github.com/giselaortt/beecrowd/tree/main/SQL).
 
 - HTML/CSS
