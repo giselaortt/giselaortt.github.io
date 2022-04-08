@@ -27,7 +27,7 @@ subtitle: This is where I will try to convince you to hire me
 - SQL 
 > Started with [intro SQL kaggle course](https://www.kaggle.com/learn/certification/giselaortt/intro-to-sql)
 > followed by the [Advanced SQL](https://www.kaggle.com/learn/certification/giselaortt/advanced-sql) kaggle course.
-> Solved most SQL problems from [beecrowd](https://www.beecrowd.com.br/) website, see the solutions [here](https://github.com/giselaortt/beecrowd/tree/main/SQL).
+> Solved 39 (the others were poorly defined) SQL problems from [beecrowd](https://www.beecrowd.com.br/) website, see the solutions [here](https://github.com/giselaortt/beecrowd/tree/main/SQL).
 
 - HTML/CSS
 > taking [this](https://www.w3schools.com/html/html_css.asp) and [this](https://www.w3schools.com/html/html_basic.asp) course from w3 school.
