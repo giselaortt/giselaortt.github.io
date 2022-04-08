@@ -25,8 +25,8 @@ subtitle: This is where I will try to convince you to hire me
 - Django
 
 - SQL 
-> started with [intro SQL kaggle course](https://www.kaggle.com/learn/certification/giselaortt/intro-to-sql)
-> Then I completed the [Advanced SQL](https://www.kaggle.com/learn/certification/giselaortt/advanced-sql) kaggle course.
+> Started with [intro SQL kaggle course](https://www.kaggle.com/learn/certification/giselaortt/intro-to-sql)
+> followed by the [Advanced SQL](https://www.kaggle.com/learn/certification/giselaortt/advanced-sql) kaggle course.
 > Solved most SQL problems from [beecrowd](https://www.beecrowd.com.br/) website, see the solutions [here](https://github.com/giselaortt/beecrowd/tree/main/SQL).
 
 - HTML/CSS
