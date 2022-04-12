@@ -13,7 +13,6 @@
 - Add about me page
 - write blog description
 
-### YAML front matter parameters
-
+### Credits:
 
 Most of this code was originally from beautifulljekyl project. I did a few editions on my version, and the version i initially forked carried some modification from other users too.

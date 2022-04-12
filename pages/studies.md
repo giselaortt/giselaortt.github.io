@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Studies
+subtitle: This is where I will try to convince you to hire me
 ---
 
 ### Topics that I have studied recently:
@@ -24,15 +25,15 @@ title: Studies
 - Django
 
 - SQL 
-> started with [this kaggle course](https://www.kaggle.com/learn/certification/giselaortt/intro-to-sql)
+> Started with [intro SQL kaggle course](https://www.kaggle.com/learn/certification/giselaortt/intro-to-sql)
+> followed by the [Advanced SQL](https://www.kaggle.com/learn/certification/giselaortt/advanced-sql) kaggle course.
+> Solved 39 (the others were poorly defined) SQL problems from [beecrowd](https://www.beecrowd.com.br/) website, see the solutions [here](https://github.com/giselaortt/beecrowd/tree/main/SQL).
 
 - HTML/CSS
 > taking [this](https://www.w3schools.com/html/html_css.asp) and [this](https://www.w3schools.com/html/html_basic.asp) course from w3 school.
 
-- Non Violent Comunication
 
-
-### Topics that I plan to study/revi ew soon:
+### Topics that I plan to study/review soon:
 
 - Deep Learning
 
