@@ -13,18 +13,20 @@ bigimg: ["/images/capas/pico-do-papagaio.jpg" : "Pico do Papagayo, Ilha Grande, 
 I carry reading habit from childhood but used to read only fiction. I started reading non-fiction in 2017 and have not stopped ever since. Here Are some recomendations I have and eventually a review.
 If you are also into books and would like to disscuss feel free to reach out!
 
-### My favorite books:
+### Books:
 - <b>Sapiens</b>, <i>Yuval Noah Harari</i>
 - <b>Homo Deus: A Brief History of Tomorrow</b>, <i>Yuval Noah Harari</i>
 - <b>Behave</b>, <i>Robert Sapolsky</i>
 - <b>The Master and His Emissary: The Divided Brain and the Making of the Western World</b>, <i>Iain McGilchrist</i>
 - <b>21 Lessons for the 21st Century</b>, <i>Yuval Noah Harari</i>
 
-
-### Other useful books:
 - <b>Mindset</b>, <i>Carol Dwerk</i>
+> If you can pick up a single book from this list to improve your life, pick up this one.
+
+- <b>Getting to Zero,</b> <i> Jayson Gaddis  </i>
+> I know this coaching thing can be overpromissing and hyped sometimes, but this book actually brings great insights. I realize a few things are actually pretty described in a more commercial way.
+
 - <b>Non-violent comunication</b>, <i>Marshall Rosenberg</i>
-> Single best book for better relationships
 
 - <b>The Surprising Purpose of Anger: Beyond Anger Management</b>, <i>Marshall Rosenberg</i>
 > application of the previous book.
