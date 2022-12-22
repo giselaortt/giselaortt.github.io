@@ -21,10 +21,10 @@ If you are also into books and would like to disscuss feel free to reach out!
 - <b>21 Lessons for the 21st Century</b>, <i>Yuval Noah Harari</i>
 
 - <b>Mindset</b>, <i>Carol Dwerk</i>
-> If you can pick up a single book from this list to improve your life, pick up this one.
+> If you can pick up a single book from this list to improve your life, pick up this one. Pay attention to the author as many other books with this title exists.
 
 - <b>Getting to Zero,</b> <i> Jayson Gaddis  </i>
-> I know this coaching thing can be overpromissing and hyped sometimes, but this book actually brings great insights. I realize a few things are actually pretty described in a more commercial way.
+> I know this coaching thing can be overpromissing and hyped sometimes, I have myself some ceticism on this topic, but this book actually brings great insights, it is inspiring and opens an important dialogue.
 
 - <b>Non-violent comunication</b>, <i>Marshall Rosenberg</i>
 
