@@ -78,7 +78,10 @@ If you are also into books and would like to disscuss feel free to reach out!
 - <b>Unwinding Anxiety</b>, <i>Judson Brewer</i>
 > Great and insightful but the author extends himself a bit. Read it if you struggle with craving, procrastination, anxiety, depression, and any form of addiction.
 
+-<b>[Complex PTSD](https://www.amazon.com/Complex-PTSD-Surviving-RECOVERING-CHILDHOOD/dp/1492871842), </b><i>Pete Walker</i>
+> Best book of the year by far. Worthy of several readings.
+  
 ### Curently reading:
 - <b>Noise</b>, <i>Daniel Kahneman</i>
 - <b>Smarter Tomorrow</b>
-- <b>Blindspots between us</b>
+
