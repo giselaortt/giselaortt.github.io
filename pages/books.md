@@ -111,7 +111,7 @@ If you are also into books and would like to disscuss feel free to reach out!
 
 - <b>Fluent python,</b><i>Luciano Ramalho</i>
 
-- <b> Head First Design Patterns </b>
+- <b> Head First Design Patterns, </b><i>Eric Freeman</i>
 
 
 ## Self-help books(that actually work):
