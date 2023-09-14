@@ -3,7 +3,7 @@ layout: page
 title: Why are autistics weman at greater risk for sexaul violence?
 subtitle: and can we do something about it?
 use-site-title: true
-bigimg: "/images/capas/vale-da-lua.jpg"
+bigimg: 
 ---
 
 
@@ -111,13 +111,4 @@ I also had the experience to be told that I am screaming, even though I don't th
 
 Once society inflicts you with the fear of being judged, taken by rude and angry, we tend to become more tolerant, and sometimes too tolerant with situations where we should not be.
 
-	the repression of the anger by the parents is the core of autistic repression, it culminates on the autistic toxic passivity and is a the beginning and a fundamental part of the phenomenon known as masking. 
-
-
-#### Victimhood
-
-No one wants to be a victim. But the rejection and discomfort people feel for this position of victims is exactly what impedes them to change outside of this position. 
-
-If you are black, you should be able to talk about the extra challenges you will face on the work market, even while you fight your place. If you fail to recognize the affects of racism you might be trapped thinking that you have done enough, and that you should have a job already. 
-
-We as autistics are in a position of social vulnerability, if it sounds as disgusting victim hood that let it sound. But once you know you are at a disadvantage you may increase the efforts and find strategies to deal with the problems. The first step, as always.
+the repression of the anger by the parents is the core of autistic repression, it culminates on the autistic toxic passivity and is a the beginning and a fundamental part of the phenomenon known as masking.
