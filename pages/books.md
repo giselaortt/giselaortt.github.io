@@ -130,6 +130,10 @@ If you are also into books and would like to disscuss feel free to reach out!
 - <b>Unwinding Anxiety</b>, <i>Judson Brewer</i>
 > Great and insightful but the author extends himself a bit. Read it if you struggle with craving, procrastination, anxiety, depression, and any form of addiction.
 
+- <b>Unmasking Autism</b>, <i></i>
+
+- <b>Pragmatist Guide To Sexuality,</b><i>Malcolm and Simone Collins</i>
+
 - <b>Focusing</b>, <i>Eugene T. Gendlin</i>
 > Very easy and fluid book. Interesting perspective on how much of Psycology tends to be a waste and how much of the ability for healing lies on the patient, not on the therapist.
 >However, the practice of the tecnique is much harder then I thought snd more time consuming then reading the book itself, so unless you have some time and focus to invest in this, do not read.
