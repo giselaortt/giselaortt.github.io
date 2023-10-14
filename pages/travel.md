@@ -1,13 +1,10 @@
 ---
 layout: page
 title: Why are autistics weman at greater risk for sexaul violence?
-subtitle: and can we do something about it?
+subtitle: and how big is the problem?
 use-site-title: true
 bigimg: 
 ---
-
-
-# Why is the risk of sexual violence so high for autistic weman and how big is the problem ?
 
 
 Evidence suggests that 9 in 10 woman with autism are raped throughout their lives. It is importat to note that this is just a survey done in France and not a proper scientific research. Surveys are a good way to have a sense on what is heppening on a given group on that period of time, but cannot be extended to other groups and times.
