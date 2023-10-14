@@ -92,7 +92,7 @@ Freeze response is a real effect and you should have some respect for the people
 
 
 
-	''' Just because a person doesn't fight back, just because someone does not actively say stop, and just because you don’t “go all the way” doesn’t mean you are not raping another person.-Malcolm and Simone Collins''' 
+> Just because a person doesn't fight back, just because someone does not actively say stop, and just because you don’t “go all the way” doesn’t mean you are not raping another person. -Malcolm and Simone Collins 
 
 The problem with rape is not the physical pain, it is not the risk of disease or pregnancy, the problem is the objectification. The culture of minimization tries to use the fact that some people might feel pleasure or orgasm with physical agrgession as a reason to justify and minimize rape. If the perpetrator is nice and gentle they will be arrested for less time, which is a contradiction. If somebory disrespected your will it is not the physical violence that is the problem nor how much they spanked you or if they did, it is a diminishment of humanity in itself.
 All this dialogs misses the point. Rape is about consent and self determination, not about violence nor pain.
