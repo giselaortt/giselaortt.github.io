@@ -44,6 +44,10 @@ Even for other matters, as people are constantly belittling an autistic point of
 Risky behavior is one of the things that appear on several diagnosis on DSM, and it was also one thing my neuro-psychologist evaluated me while assessing me for ADD.
 
 
+#### Lack of social support or social skills:
+
+Authistics would be less likely to have the social support that would enable them to talk about those topics. High masking autistics could have a lot of friends but still not able to open up about their real experiences.
+
 ## How big is the problem?
 
 
