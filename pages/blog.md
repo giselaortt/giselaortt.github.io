@@ -35,8 +35,11 @@ bigimg: ["/images/capas/por-do-sol.jpg",
 [//]: # - [Anki Deck:](anki_deck) Learning gender and plural of most spoken German nouns with translations and audio on the go!
 
 
-<a href="https://giselaortt.github.io/pages/travel/"> Why is the risk of sexual violence among autistic weman so high? </a>
+<a href="https://giselaortt.github.io/pages/travel/">EN: Why is the risk of sexual violence among autistic weman so high? </a>
 
-<a href="https://giselaortt.github.io/pages/anki_deck/" > Anki Deck </a> Learning gender and plural of most spoken German nouns with translations and audio on the go!
+<a href="https://giselaortt.github.io/pages/displaced/">PT: Agressões Deslocadas </a>
 
-[My first public ANKI add-on!](https://ankiweb.net/shared/info/1573325751) I changed an existing add-on to allow for 12 options multiple choice!
+<a href="https://giselaortt.github.io/pages/anki_deck/" >EN: Anki Deck </a> Learning gender and plural of most spoken German nouns with translations and audio on the go!
+
+
+[EN: My first public ANKI add-on!](https://ankiweb.net/shared/info/1573325751) I changed an existing add-on to allow for 12 options multiple choice!
