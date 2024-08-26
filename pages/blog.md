@@ -28,16 +28,16 @@ bigimg: ["/images/capas/por-do-sol.jpg",
 [//]: # - [<u>test 2</u>](books): test
 
 
-[//]: # - [How I learned German in 8 months!](german): tipps on how to learn a languages quicker with Spaced Repetition Systems!
+[//]: # - [How I learned German in 8 months!](https://giselaortt.github.io/2021-09-09-german-8-months/): tipps on how to learn a languages quicker with Spaced Repetition Systems!
 [How I learned German in 8 months!](german): tipps on how to learn a languages quicker with Spaced Repetition Systems!
 
 
-[//]: # - [Anki Deck:](anki_deck) Learning gender and plural of most spoken German nouns with translations and audio on the go!
+[//]: # - [Anki Deck:](https://giselaortt.github.io/2023-02-02-anki-deck/) Learning gender and plural of most spoken German nouns with translations and audio on the go!
 
 
-<a href="https://giselaortt.github.io/pages/travel/">EN: Why is the risk of sexual violence among autistic weman so high? </a>
+<a href="https://giselaortt.github.io/2024-08-26-why-is-the-risk-of-rape-so-high/">EN: Why is the risk of sexual violence among autistic weman so high? </a>
 
-<a href="https://giselaortt.github.io/pages/displaced/">PT: Agressões Deslocadas </a>
+<a href="https://giselaortt.github.io/2023-02-02-displaced-agression/">PT: Agressões Deslocadas </a>
 
 <a href="https://giselaortt.github.io/pages/anki_deck/" >EN: Anki Deck </a> Learning gender and plural of most spoken German nouns with translations and audio on the go!
 
