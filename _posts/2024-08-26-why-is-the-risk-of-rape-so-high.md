@@ -163,4 +163,29 @@ if you know an autistic, take their perspective in consideration, even though it
 
 
 
+references:
+
+
+https://www.frontiersin.org/news/2022/04/27/frontiers-behavioral-neuroscience-sexual-abuse-women-with-autism-widespread
+
+
+https://www.openaccessgovernment.org/nine-out-of-ten-autistic-women-are-victims-of-sexual-assault/134603/
+
+
+https://www.sciencedirect.com/science/article/abs/pii/S1750946721001410
+
+https://link.springer.com/article/10.1007/s40489-023-00426-x
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4784091/
+
+
+https://journals.sagepub.com/doi/pdf/10.1177/15248380221093689
+
+
+https://link.springer.com/article/10.1007/s10803-023-06064-w
+
+
+https://journals.sagepub.com/doi/10.1177/1524838021995975
+
 
