@@ -20,7 +20,7 @@ subtitle: This is where I will try to convince you to hire me
 - 2021/1st - In-depth German grammar and vocabulary
 >  B2 reached from Goethe Institute
 
-### Topics that I am studying/reviewing now / Goals for this semster:
+### Topics that I am studying/reviewing now / Goals for this semester:
 
 - Django
 

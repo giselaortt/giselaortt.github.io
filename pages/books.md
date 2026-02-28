@@ -10,12 +10,12 @@ bigimg: ["/images/capas/pico-do-papagaio.jpg" : "Pico do Papagayo, Ilha Grande, 
 [//]: #  - [<u>Reading</u>](reading): My reading list
 [//]: <b></b><i></i>
 
-I carry reading habit from childhood but used to read only fiction. I started reading non-fiction in 2017 and have not stopped ever since. Here Are some recomendations I have and eventually a review.
-If you are also into books and would like to disscuss feel free to reach out!
+I carry reading habit from childhood but used to read only fiction. I started reading non-fiction in 2017 and have not stopped ever since. Here are some recommendations I have and eventually a review.
+If you are also into books and would like to discuss, feel free to reach out!
 
 
 ## Productivity:
-- <b>Mindset</b>, <i>Carol Dwerk</i>
+- <b>Mindset</b>, <i>Carol Dweck</i>
 > If you can pick up a single book from this list to improve your life, pick up this one. Pay attention to the author as many other books with this title exists.
 
 - <b>Indistractable: How to Control Your Attention and Choose Your Life Hardcover,</b><i> Nir Eyal</i>
@@ -27,7 +27,7 @@ If you are also into books and would like to disscuss feel free to reach out!
 
 - <b>Deep work</b>, <i>Cal Newport</i>
 
-- <b>The Power of Habit</b>,<i>Charles Duhig</i>
+- <b>The Power of Habit</b>,<i>Charles Duhigg</i>
 
 
 ## Biology or neurosciences:
@@ -61,7 +61,7 @@ If you are also into books and would like to disscuss feel free to reach out!
   
 - <b>The Sixth Extinction: An Unnatural History</b>, <i>Elizabeth Kolbert</i>
   
-- <b> Delusions Of Gender: How Our Minds, Society, and Neurosexism Create Difference </b>, <i>Cordelia Fine</i>
+- <b> Delusions of Gender: How Our Minds, Society, and Neurosexism Create Difference</b>, <i>Cordelia Fine</i>
 > Recomend this book to every girl. This book empowered me and increased my confidence to go into a teach industry.
 > It is great to be more aware of the environment and society biases that can sometimes act as a drawbac
 
@@ -94,7 +94,7 @@ If you are also into books and would like to disscuss feel free to reach out!
 > Read carefully, a few of those researches did not replicate.
 
 - <b>Misbehaving: The Making of Behavioral Economics</b>, <i>Richard Thaler</i>
-> Specially iterested on his research about the behavioral economics applied to finaces and invstments.
+> Specially interested in his research about the behavioral economics applied to finaces and investments.
 
 - <b>Noise</b>, <i>Daniel Kahneman</i>
 > Interesting explanation of group thinking, and good insight on decision higiene, not so much more then this though.
@@ -139,16 +139,16 @@ If you are also into books and would like to disscuss feel free to reach out!
 >However, the practice of the tecnique is much harder then I thought snd more time consuming then reading the book itself, so unless you have some time and focus to invest in this, do not read.
 
 - <b>The Noonday Demon: An Atlas of Depression</b>, <i>Andrew Solomon</i>
-> a deep research on depression but i don't like all that much, it is a lot of investment for realativelly small gain.
+> a deep research on depression but i don't like all that much, it is a lot of investment for relatively small gain.
 
 
-## Momoir:
+## Memoir:
 - <b>On Writing: A Memoir of the Craft</b>, <i>Stephen King</i>
 
 - <b>What I Talk about When I Talk about Running: A Memoir<b>, <i>Haruki Murakami</i>
 
 
  
-### Curently reading:
+### Currently reading:
 - <b>Smarter Tomorrow</b>
 

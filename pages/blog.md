@@ -35,9 +35,9 @@ bigimg: ["/images/capas/por-do-sol.jpg",
 [//]: # - [Anki Deck:](https://giselaortt.github.io/2023-02-02-anki-deck/) Learning gender and plural of most spoken German nouns with translations and audio on the go!
 
 
-<a href="https://giselaortt.github.io/2024-08-26-why-is-the-risk-of-rape-so-high/">EN: Why is the risk of sexual violence among autistic weman so high? </a>
+<a href="https://giselaortt.github.io/2024-08-26-why-is-the-risk-of-rape-so-high/">EN: Why is the risk of sexual violence among autistic women so high? </a>
 
-<a href="https://giselaortt.github.io/2023-02-02-displaced-agression/">PT: Agressões Deslocadas </a>
+<a href="https://giselaortt.github.io/2023-02-02-displaced-aggression/">PT: Agressões Deslocadas </a>
 
 <a href="https://giselaortt.github.io/pages/anki_deck/" >EN: Anki Deck </a> Learning gender and plural of most spoken German nouns with translations and audio on the go!
 
