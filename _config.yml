@@ -5,7 +5,7 @@ url: "https://giselaortt.github.io"
 baseurl: ""
 
 # Name of website
-title: "Gisela Ortt"
+title: "Gisela Foohs"
 
 # Short description of your site
 description: "Portfolio"
@@ -34,7 +34,7 @@ avatar: "/images/profile.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: "Gisela Ortt"
+  name: "Gisela Foohs"
   email: "ms.giselaortt@gmail.com"
   github: giselaortt
   linkedin: gisela-ortt-2bb40a196
